@@ -1,4 +1,4 @@
-~~#####在Android上发送HTTP请求的方式一般有两种，`HttpURLConnection`和`HttpClient`，现在分别介绍这两种的用法~~
+~~在Android上发送HTTP请求的方式一般有两种，`HttpURLConnection`和`HttpClient`，现在分别介绍这两种的用法~~
 **PS:android5.0之后取消了HttpClient**
 * **使用HttpURLConnection**
   1. 首先需要获取到`HttpURLConnection`的实例，一般只需new出一个URL对象，并传入目标的网络地址，然后调用一下openConnection()即可
