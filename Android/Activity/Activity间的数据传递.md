@@ -156,7 +156,8 @@ protected void onActivityResult(int requestCode,int resultCode,Intent data){
 数据的返回完成！
 
 **总结**
-	1. 若是只是从`FirstActivituy`传递数据给`SecondActivity`，则使用`startActivity(Intent intent)`方法，若是还需要得到`SecondActivity`返回的数据，则应使用`startActivityForResult(Intent intent, int requestCode)`方法
-	2. 传递数据需要利用Intent类里的`putExtra()`方法，根据情况传递相对应的键值，若是返回数据，则还需要调用`setResult()`方法，并传入相应的结果码和Intent对象。
-	3. 将传递数据的逻辑进行封装
-	4. 在处理返回数据时，需要重写`onActivityResult(int requestCode, int resultCode, Intent data);`方法，并根据requestCodeq(请求码)判断是哪一个Activity返回的数据，判断resultCode(结果码)并作出相应的操作
+
+ 1. 若是只是从`FirstActivituy`传递数据给`SecondActivity`，则使用`startActivity(Intent intent)`方法，若是还需要得到`SecondActivity`返回的数据，则应使用`startActivityForResult(Intent intent, int requestCode)`方法
+ 2. 传递数据需要利用Intent类里的`putExtra()`方法，根据情况传递相对应的键值，若是返回数据，则还需要调用`setResult()`方法，并传入相应的结果码和Intent对象。
+ 3. 将传递数据的逻辑进行封装
+ 4. 在处理返回数据时，需要重写`onActivityResult(int requestCode, int resultCode, Intent data);`方法，并根据requestCodeq(请求码)判断是哪一个Activity返回的数据，判断resultCode(结果码)并作出相应的操作
