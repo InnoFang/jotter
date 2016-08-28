@@ -111,6 +111,7 @@ public class SecondActivity extends AppCompatActivity {
 如果不调用`setResult(int resultCode, Intent data)`方法，那么在单击后退键后，总是会返回`Activity.REULT_CANCELED;`的结果码。
 我们同样将逻辑封装起来
 >在SecondActivity中封装返回数据的逻辑
+
 ```Java
 public static final String EXTRA_KEY_BACK_BOOLEAN = "com.example.administrator.Test.value_back";
 
@@ -121,6 +122,7 @@ private void actionResult(boolean valueBoolean) {
 }
 
 ```
+
 `actionResult(boolean valueBoolan)`方法的参数是需要传递的值，可以根据情况进行增删。
 然后就可以在适当的位置调用该方法，例如在点击回退键是返回数据：
 
