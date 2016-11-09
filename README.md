@@ -1,4 +1,4 @@
-<h1> IFNote<h3> ———— My Programming Study Notes
+<h1> Study Notes<h3> ———— My Programming Study Notes
 - - -
 <h2> Android 
 
