@@ -1,6 +1,8 @@
-<h1> Study Notes<h3> ———— My Programming Study Notes
+# Study Notes
+### ———— My Programming Study Notes
 - - -
-<h3> Android 
+
+### Android 
 
 + Activity
  - [Activity间的数据传递](https://github.com/InnoFang/IFNote/blob/master/Android/Activity/Activity%E9%97%B4%E7%9A%84%E6%95%B0%E6%8D%AE%E4%BC%A0%E9%80%92.md)
@@ -24,6 +26,7 @@
   - [工具栏](https://github.com/InnoFang/IFNote/blob/master/Android/%E6%A0%B7%E5%BC%8F%E5%92%8C%E4%B8%BB%E9%A2%98/%E5%B7%A5%E5%85%B7%E6%A0%8F.md)
 
 - - - 
-<h3> Java
+
+### Java
 
 + [Socket](https://github.com/InnoFang/StudyNotes/blob/master/Java/Socket.md)
