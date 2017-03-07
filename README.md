@@ -30,3 +30,14 @@
 ### Java
 
 + [Socket](https://github.com/InnoFang/StudyNotes/blob/master/Java/Socket.md)
+
+- - - 
+
+### 设计模式
+
+ + [工厂方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/FactoryMethod)
+ + [抽象工厂模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/AbstractFactory)
+ + [建造者模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Builder)
+ + [原型模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Prototype)
+ + [单例模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Singleton)
+ + [策略模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Strategy)
