@@ -29,7 +29,11 @@
 
 ### Java
 
++ [Set](https://github.com/InnoFang/StudyNotes/blob/master/Java/Set.md)
+
 + [Socket](https://github.com/InnoFang/StudyNotes/blob/master/Java/Socket.md)
+
++ [从零开始的回调](https://innofang.github.io/2017/03/08/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9B%9E%E8%B0%83/)
 
 - - - 
 
@@ -41,3 +45,6 @@
  + [原型模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Prototype)
  + [单例模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Singleton)
  + [策略模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Strategy)
+ + [状态模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/State)
+ + [责任链模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/ChainOfResponsibility)
+ + [观察者模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Observer)
