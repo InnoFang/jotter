@@ -54,3 +54,4 @@
  + [责任链模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/ChainOfResponsibility)
  + [观察者模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Observer)
  + [备忘录模式](https://github.com/InnoFang/DesignPatterns/tree/master/out/production/Design%20Patterns/io/innofang/Memento)
+ + [模板方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/out/production/Design%20Patterns/io/innofang/TemplateMethod)
