@@ -1,13 +1,30 @@
-/*
- * Ô²ĞÎ¶¯»­¹¤¾ßÀà
- * /
-public class CircularAnimUtil {
+package io.innofang.myapplication.utils;
 
+import android.animation.Animator;
+import android.animation.AnimatorListenerAdapter;
+import android.annotation.SuppressLint;
+import android.app.Activity;
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.View;
+import android.view.ViewAnimationUtils;
+import android.view.ViewGroup;
+import android.widget.ImageView;
+
+
+/**
+ * Author: Inno Fang
+ * Time: 2017/3/27 18:52
+ * Description:
+ */
+
+
+public class CircularAnimUtil {
     public static final long PERFECT_MILLS = 618;
     public static final int MINI_RADIUS = 0;
 
     /**
-     * ÏòËÄÖÜÉìÕÅ£¬Ö±µ½Íê³ÉÏÔÊ¾¡£
+     * å‘å››å‘¨ä¼¸å¼ ï¼Œç›´åˆ°å®Œæˆæ˜¾ç¤ºã€‚
      */
     @SuppressLint("NewApi")
     public static void show(View myView, float startRadius, long durationMills) {
@@ -22,7 +39,7 @@ public class CircularAnimUtil {
         int w = myView.getWidth();
         int h = myView.getHeight();
 
-        // ¹´¹É¶¨Àí & ½øÒ»·¨
+        // å‹¾è‚¡å®šç† & è¿›ä¸€æ³•
         int finalRadius = (int) Math.sqrt(w * w + h * h) + 1;
 
         Animator anim =
@@ -33,7 +50,7 @@ public class CircularAnimUtil {
     }
 
     /**
-     * ÓÉÂúÏòÖĞ¼äÊÕËõ£¬Ö±µ½Òş²Ø¡£
+     * ç”±æ»¡å‘ä¸­é—´æ”¶ç¼©ï¼Œç›´åˆ°éšè—ã€‚
      */
     @SuppressLint("NewApi")
     public static void hide(final View myView, float endRadius, long durationMills) {
@@ -47,7 +64,7 @@ public class CircularAnimUtil {
         int w = myView.getWidth();
         int h = myView.getHeight();
 
-        // ¹´¹É¶¨Àí & ½øÒ»·¨
+        // å‹¾è‚¡å®šç† & è¿›ä¸€æ³•
         int initialRadius = (int) Math.sqrt(w * w + h * h) + 1;
 
         Animator anim =
@@ -65,8 +82,8 @@ public class CircularAnimUtil {
     }
 
     /**
-     * ´ÓÖ¸¶¨View¿ªÊ¼ÏòËÄÖÜÉìÕÅ(ÉìÕÅÑÕÉ«»òÍ¼Æ¬ÎªcolorOrImageRes), È»ºó½øÈëÁíÒ»¸öActivity,
-     * ·µ»ØÖÁ @thisActivity ºóÏÔÊ¾ÊÕËõ¶¯»­¡£
+     * ä»æŒ‡å®šViewå¼€å§‹å‘å››å‘¨ä¼¸å¼ (ä¼¸å¼ é¢œè‰²æˆ–å›¾ç‰‡ä¸ºcolorOrImageRes), ç„¶åè¿›å…¥å¦ä¸€ä¸ªActivity,
+     * è¿”å›è‡³ @thisActivity åæ˜¾ç¤ºæ”¶ç¼©åŠ¨ç”»ã€‚
      */
     @SuppressLint("NewApi")
     public static void startActivityForResult(
@@ -90,7 +107,7 @@ public class CircularAnimUtil {
         int h = decorView.getHeight();
         decorView.addView(view, w, h);
 
-        // ¼ÆËãÖĞĞÄµãÖÁview±ß½çµÄ×î´ó¾àÀë
+        // è®¡ç®—ä¸­å¿ƒç‚¹è‡³viewè¾¹ç•Œçš„æœ€å¤§è·ç¦»
         int maxW = Math.max(cx, w - cx);
         int maxH = Math.max(cy, h - cy);
         final int finalRadius = (int) Math.sqrt(maxW * maxW + maxH * maxH) + 1;
@@ -98,11 +115,11 @@ public class CircularAnimUtil {
                 anim = ViewAnimationUtils.createCircularReveal(view, cx, cy, 0, finalRadius);
         int maxRadius = (int) Math.sqrt(w * w + h * h) + 1;
         long finalDuration = durationMills;
-        // ÈôÊ¹ÓÃÄ¬ÈÏÊ±³¤£¬ÔòĞèÒª¸ù¾İË®²¨À©É¢µÄ¾àÀëÀ´¼ÆËãÊµ¼ÊÊ±¼ä
+        // è‹¥ä½¿ç”¨é»˜è®¤æ—¶é•¿ï¼Œåˆ™éœ€è¦æ ¹æ®æ°´æ³¢æ‰©æ•£çš„è·ç¦»æ¥è®¡ç®—å®é™…æ—¶é—´
         if (finalDuration == PERFECT_MILLS) {
-            // Ëã³öÊµ¼Ê±ß¾àÓë×î´ó±ß¾àµÄ±ÈÂÊ
+            // ç®—å‡ºå®é™…è¾¹è·ä¸æœ€å¤§è¾¹è·çš„æ¯”ç‡
             double rate = 1d * finalRadius / maxRadius;
-            // Ë®²¨À©É¢µÄ¾àÀëÓëÀ©É¢Ê±¼ä³ÉÕı±È
+            // æ°´æ³¢æ‰©æ•£çš„è·ç¦»ä¸æ‰©æ•£æ—¶é—´æˆæ­£æ¯”
             finalDuration = (long) (PERFECT_MILLS * rate);
         }
         anim.setDuration(finalDuration);
@@ -118,10 +135,10 @@ public class CircularAnimUtil {
                 else
                     thisActivity.startActivityForResult(intent, requestCode, bundle);
 
-                // Ä¬ÈÏ½¥Òş¹ı¶É¶¯»­.
+                // é»˜è®¤æ¸éšè¿‡æ¸¡åŠ¨ç”».
                 thisActivity.overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);
 
-                // Ä¬ÈÏÏÔÊ¾·µ»ØÖÁµ±Ç°ActivityµÄ¶¯»­.
+                // é»˜è®¤æ˜¾ç¤ºè¿”å›è‡³å½“å‰Activityçš„åŠ¨ç”».
                 triggerView.postDelayed(new Runnable() {
                     @Override
                     public void run() {
@@ -149,7 +166,7 @@ public class CircularAnimUtil {
     }
 
 
-    /*ÏÂÃæµÄ·½·¨È«ÊÇÖØÔØ£¬ÓÃ¼ò»¯ÉÏÃæ·½·¨µÄ¹¹½¨*/
+    /*ä¸‹é¢çš„æ–¹æ³•å…¨æ˜¯é‡è½½ï¼Œç”¨ç®€åŒ–ä¸Šé¢æ–¹æ³•çš„æ„å»º*/
 
 
     public static void startActivityForResult(

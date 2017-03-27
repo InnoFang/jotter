@@ -1,8 +1,8 @@
 # Study Notes
 ### ———— My Programming Study Notes
-- - -
+----------------
 
-### Android 
+### Android
 
 + Activity
 
@@ -30,7 +30,7 @@
 
   - [工具栏](https://github.com/InnoFang/IFNote/blob/master/Android/%E6%A0%B7%E5%BC%8F%E5%92%8C%E4%B8%BB%E9%A2%98/%E5%B7%A5%E5%85%B7%E6%A0%8F.md)
 
-- - - 
+----------------
 
 ### Java
 
@@ -40,7 +40,7 @@
 
 + [从零开始的回调](https://innofang.github.io/2017/03/08/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9B%9E%E8%B0%83/)
 
-- - - 
+----------------
 
 ### 设计模式
 
@@ -55,3 +55,10 @@
  + [观察者模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Observer)
  + [备忘录模式](https://github.com/InnoFang/DesignPatterns/tree/master/out/production/Design%20Patterns/io/innofang/Memento)
  + [模板方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/out/production/Design%20Patterns/io/innofang/TemplateMethod)
+
+----------------
+### Utils(工具类)
+
+ + [App相关辅助类](../Utils/AppUtil.java)
+ + [圆形动画工具类](../Utils/CircularAnimUtil.java)
+ 

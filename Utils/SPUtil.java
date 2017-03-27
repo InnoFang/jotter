@@ -1,19 +1,27 @@
+package io.innofang.myapplication.utils;
 
-/*
-��SharedPreference��ʹ�����˽���ķ�װ�����⹫����put��get��remove��clear�ȵȷ�����
-ע��һ�㣬�������е�commit����ʹ����SharedPreferencesCompat.apply�����������Ŀ���Ǿ����ܵ�ʹ��apply����commit
-����˵��Ϊʲô����Ϊcommit������ͬ���ģ��������Ǻܶ�ʱ���commit��������UI�߳��У��Ͼ���IO�������������첽��
-��������ʹ��apply���������apply�첽�Ľ���д�룻
-����apply�൱��commit��˵��new API�أ�Ϊ�˸��õļ��ݣ������������䣻
-*/
-public class SPUtils {
+import android.content.Context;
+import android.content.SharedPreferences;
+
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
+import java.util.Map;
+
+/**
+ * 对SharedPreference的使用做了建议的封装，对外公布出put，get，remove，clear等等方法；
+ * 注意一点，里面所有的commit操作使用了SharedPreferencesCompat.apply进行了替代，目的是尽可能的使用apply代替commit
+ * 首先说下为什么，因为commit方法是同步的，并且我们很多时候的commit操作都是UI线程中，毕竟是IO操作，尽可能异步；
+ * 所以我们使用apply进行替代，apply异步的进行写入；
+ * 但是apply相当于commit来说是new API呢，为了更好的兼容，我们做了适配；
+ */
+public class SPUtil {
     /**
-     * �������ֻ�������ļ���
+     * 保存在手机里面的文件名
      */
     public static final String FILE_NAME = "share_data";
 
     /**
-     * �������ݵķ�����������Ҫ�õ��������ݵľ������ͣ�Ȼ��������͵��ò�ͬ�ı��淽��
+     * 保存数据的方法，我们需要拿到保存数据的具体类型，然后根据类型调用不同的保存方法
      *
      * @param context
      * @param key
@@ -43,7 +51,7 @@ public class SPUtils {
     }
 
     /**
-     * �õ��������ݵķ��������Ǹ���Ĭ��ֵ�õ���������ݵľ������ͣ�Ȼ���������ڵķ�����ȡֵ
+     * 得到保存数据的方法，我们根据默认值得到保存的数据的具体类型，然后调用相对于的方法获取值
      *
      * @param context
      * @param key
@@ -70,7 +78,7 @@ public class SPUtils {
     }
 
     /**
-     * �Ƴ�ĳ��keyֵ�Ѿ���Ӧ��ֵ
+     * 移除某个key值已经对应的值
      *
      * @param context
      * @param key
@@ -84,7 +92,7 @@ public class SPUtils {
     }
 
     /**
-     * �����������
+     * 清除所有数据
      *
      * @param context
      */
@@ -97,7 +105,7 @@ public class SPUtils {
     }
 
     /**
-     * ��ѯĳ��key�Ƿ��Ѿ�����
+     * 查询某个key是否已经存在
      *
      * @param context
      * @param key
@@ -110,7 +118,7 @@ public class SPUtils {
     }
 
     /**
-     * �������еļ�ֵ��
+     * 返回所有的键值对
      *
      * @param context
      * @return
@@ -122,15 +130,13 @@ public class SPUtils {
     }
 
     /**
-     * ����һ�����SharedPreferencesCompat.apply������һ��������
-     *
-     * @author zhy
+     * 创建一个解决SharedPreferencesCompat.apply方法的一个兼容类
      */
     private static class SharedPreferencesCompat {
         private static final Method sApplyMethod = findApplyMethod();
 
         /**
-         * �������apply�ķ���
+         * 反射查找apply的方法
          *
          * @return
          */
@@ -147,7 +153,7 @@ public class SPUtils {
         }
 
         /**
-         * ����ҵ���ʹ��applyִ�У�����ʹ��commit
+         * 如果找到则使用apply执行，否则使用commit
          *
          * @param editor
          */
@@ -160,10 +166,9 @@ public class SPUtils {
             } catch (IllegalArgumentException
                     | IllegalAccessException
                     | InvocationTargetException e) {
-                e.printTraceStack();
+                e.printStackTrace();
             }
             editor.commit();
         }
     }
-
 }
