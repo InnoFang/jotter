@@ -1,4 +1,3 @@
-package io.innofang.myapplication.utils;
 
 import android.util.Log;
 

@@ -1,4 +1,3 @@
-package io.innofang.myapplication.utils;
 
 import android.content.Context;
 import android.view.inputmethod.InputMethodManager;
@@ -35,4 +34,4 @@ public class KeyBoardUtil {
 
         imm.hideSoftInputFromWindow(mEditText.getWindowToken(), 0);
     }
-}  
+}

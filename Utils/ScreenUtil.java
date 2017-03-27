@@ -1,4 +1,3 @@
-package io.innofang.myapplication.utils;
 
 import android.app.Activity;
 import android.content.Context;

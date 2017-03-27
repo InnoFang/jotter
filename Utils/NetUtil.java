@@ -1,4 +1,3 @@
-package io.innofang.myapplication.utils;
 
 import android.app.Activity;
 import android.content.ComponentName;
@@ -63,4 +62,4 @@ public class NetUtil {
         activity.startActivityForResult(intent, 0);
     }
 
-}  
+}

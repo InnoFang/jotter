@@ -1,4 +1,3 @@
-package io.innofang.myapplication.utils;
 
 import android.content.Context;
 import android.widget.Toast;
@@ -83,4 +82,4 @@ public class ToastUtil {
             Toast.makeText(context, message, duration).show();
     }
 
-}  
+}

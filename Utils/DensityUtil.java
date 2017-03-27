@@ -1,4 +1,3 @@
-package io.innofang.myapplication.utils;
 
 import android.content.Context;
 import android.util.TypedValue;
@@ -59,4 +58,4 @@ public class DensityUtil {
         return (pxVal / context.getResources().getDisplayMetrics().scaledDensity);
     }
 
-}  
+}

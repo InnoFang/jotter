@@ -1,4 +1,3 @@
-package io.innofang.myapplication.utils;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -11,14 +10,9 @@ import android.view.ViewAnimationUtils;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
-
 /**
- * Author: Inno Fang
- * Time: 2017/3/27 18:52
- * Description:
+ * 圆形动画工具类
  */
-
-
 public class CircularAnimUtil {
     public static final long PERFECT_MILLS = 618;
     public static final int MINI_RADIUS = 0;

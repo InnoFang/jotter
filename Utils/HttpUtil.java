@@ -1,4 +1,3 @@
-package io.innofang.myapplication.utils;
 
 import java.io.BufferedReader;
 import java.io.ByteArrayOutputStream;
@@ -192,4 +191,4 @@ public class HttpUtil {
         }
         return result;
     }
-}  
+}

@@ -1,4 +1,3 @@
-package io.innofang.myapplication.utils;
 
 import android.content.Context;
 import android.content.pm.PackageInfo;
@@ -51,4 +50,4 @@ public class AppUtil {
         return null;
     }
 
-}  
+}

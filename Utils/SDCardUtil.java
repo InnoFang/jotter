@@ -1,4 +1,3 @@
-package io.innofang.myapplication.utils;
 
 import android.os.Environment;
 import android.os.StatFs;
@@ -80,5 +79,4 @@ public class SDCardUtil {
         return Environment.getRootDirectory().getAbsolutePath();
     }
 
-}  
-
+}
