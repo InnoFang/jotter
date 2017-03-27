@@ -1,14 +1,12 @@
 # Study Notes
 #### ———— My Programming Study Notes
-
-<dl>
-   <dt>Categories</dt>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#Android">Android</a><br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#Java">Java</a><br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#DesignPatterns">设计模式</a><br/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#Utils">工具类</a><br/>
-</dl>
-
+ <dl>
+    <dt>Categories(目录)</dt>
+    <dd><a href="#Android">Android</a></dd>
+    <dd><a href="#Java">Java</a></dd>
+    <dd><a href="#DesignPatterns">设计模式</a></dd>
+    <dd><a href="#Utils">工具类</a></dd>
+ </dl>
 ----------------
 
 ### <i id="Android">Android</i>
