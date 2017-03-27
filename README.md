@@ -1,8 +1,13 @@
 # Study Notes
-### ———— My Programming Study Notes
+#### ———— My Programming Study Notes
 ----------------
 
-### Android
+ + <a href="#Android> Android</a>
+ + <a href="#Java>Java</a>
+ + <a href="#DesignPatterns>设计模式</a>
+ + <a href="#Utils>工具类</a>
+
+### <i id="Android">Android</i>
 
 + Activity
 
@@ -32,7 +37,7 @@
 
 ----------------
 
-### Java
+### <i id="Java">Java</i>
 
 + [Set](https://github.com/InnoFang/StudyNotes/blob/master/Java/Set.md)
 
@@ -42,7 +47,7 @@
 
 ----------------
 
-### 设计模式
+### <i id="DesignPatterns">Design Patterns(设计模式)</i>
 
  + [工厂方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/FactoryMethod)
  + [抽象工厂模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/AbstractFactory)
@@ -57,7 +62,7 @@
  + [模板方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/out/production/Design%20Patterns/io/innofang/TemplateMethod)
 
 ----------------
-### Utils(工具类)
+### <i id="Utils">Utils(工具类)</i>
 
  + [App相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/AppUtil.java)
  + [圆形动画工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CircularAnimUtil.java)
