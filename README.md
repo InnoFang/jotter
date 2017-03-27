@@ -1,10 +1,14 @@
 # Study Notes
 #### ———— My Programming Study Notes
 
-   + <a href="#Android">Android</a>
-   + <a href="#Java">Java</a>
-   + <a href="#DesignPatterns">设计模式</a>
-   + <a href="#Utils">工具类</a>
+<dl>
+   <dt>Study Notes</dt>
+   <dd><a href="#Android">Android</a></dd>
+   <dd><a href="#Java">Java</a></dd>
+   <dd><a href="#DesignPatterns">设计模式</a></dd>
+   <dd><a href="#Utils">工具类</a></dd> 
+</dl>
+
 ----------------
 
 ### <i id="Android">Android</i>
