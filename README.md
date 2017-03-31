@@ -68,6 +68,7 @@
 
  + [App相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/AppUtil.java)
  + [圆形动画工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CircularAnimUtil.java)
+ + [关闭可关闭类工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CloseUtil.java)
  + [单位转换类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/DensityUtil.java)
  + [Http相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/HttpUtil.java)
  + [软键盘相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/KeyBoardUtil.java)
@@ -77,4 +78,3 @@
  + [SD卡相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SDCardUtil.java)
  + [SharedPreferences封装类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SPUtil.java)
  + [Toast工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ToastUtil.java)
- 
