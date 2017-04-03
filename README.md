@@ -58,7 +58,7 @@
 
 ----------------
 
-### <i id="DataStructsAndAlgorithms">Data Structs And Algorithms(数据结构和算法)</i>
+### <a href="https://github.com/InnoFang/Algorithm-Library"><i id="DataStructsAndAlgorithms">Data Structs And Algorithms(数据结构和算法)</i></a>
 
 + Sort (排序)
   - [Bubble Sort (冒泡排序)](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/sort/impl/BubbleSort.java)
@@ -73,7 +73,7 @@
 
 ----------------
 
-### <i id="DesignPatterns">Design Patterns(设计模式)</i>
+### <a href="https://github.com/InnoFang/DesignPatterns"><i id="DesignPatterns">Design Patterns(设计模式)</i></a>
 
  + [工厂方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/FactoryMethod)
  + [抽象工厂模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/AbstractFactory)
