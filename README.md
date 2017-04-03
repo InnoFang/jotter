@@ -9,6 +9,9 @@
     <dd><a href="#DesignPatterns">设计模式</a></dd>
     <dd><a href="#Utils">工具类</a></dd>
  </dl>
+
+ 更多内容，请看[这里](https://innofang.github.io) :-)
+
 ----------------
 
 ### <i id="Android">Android</i>
@@ -104,5 +107,3 @@
  + [Toast工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ToastUtil.java)
 
 ---------------
-
- [更多内容](https://innofang.github.io)
