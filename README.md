@@ -68,6 +68,9 @@
   - [Quick Sort (快速排序)](https://github.com/InnoFang/Algorithm-Library/blob/master/src/sort/impl/QuickSort.java)
   - [Merge Sort (归并排序)](https://github.com/InnoFang/Algorithm-Library/blob/master/src/sort/impl/MergeSort.java)
 
++ Search (搜索)
+  - [二分查找](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/search/BinarySearch.java)
+
 ----------------
 
 ### <i id="DesignPatterns">Design Patterns(设计模式)</i>
