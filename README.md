@@ -5,7 +5,7 @@
     <dd><a href="#Android">Android</a></dd>
     <dd><a href="#Java">Java</a></dd>
     <dd><a href="#ComputerNetwork">计算机网络</a></dd>
-    <dd><a href="#DataStructsAndAlgorithms">数据结构和算法</a></dd>
+    <dd><a href="#Algorithms">算法</a></dd>
     <dd><a href="#DesignPatterns">设计模式</a></dd>
     <dd><a href="#Utils">工具类</a></dd>
  </dl>
@@ -61,7 +61,7 @@
 
 ----------------
 
-### <a href="https://github.com/InnoFang/Algorithm-Library"><i id="DataStructsAndAlgorithms">Data Structs And Algorithms(数据结构和算法)</i></a>
+### <a href="https://github.com/InnoFang/Algorithms"><i id="Algorithms">Algorithms(算法)</i></a>
 
 + Sort (排序)
   - [Bubble Sort (冒泡排序)](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/sort/impl/BubbleSort.java)
