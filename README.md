@@ -1,7 +1,7 @@
-![](./image/StudyNotes.png)
+<img id="StudyNotes" src="./image/StudyNotes.png" />
 
  <dl>
-    <dt><strong id="categories">Categories(目录)</strong></dt>
+    <dt>Categories(目录)</dt>
     <dd><a href="#Android">Android</a></dd>
     <dd><a href="#Java">Java</a></dd>
     <dd><a href="#ComputerNetwork">计算机网络</a></dd>
@@ -14,7 +14,7 @@
 
 ----------------
 
-### <i id="Android">Android</i> &nbsp;&nbsp;&nbsp; <a href="#categories">![](./image/go_top.png)</a>
+### <i id="Android">Android</i> &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
 + Activity
 
@@ -44,7 +44,7 @@
 
 ----------------
 
-### <i id="Java">Java</i> &nbsp;&nbsp;&nbsp; <a href="#categories">![](./image/go_top.png)</a>
+### <i id="Java">Java</i> &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
 + [Set](https://github.com/InnoFang/StudyNotes/blob/master/Java/Set.md)
 
@@ -54,14 +54,14 @@
 
 ----------------
 
-### <i id="ComputerNetwork">Computer Network(计算机网络)</i>  &nbsp;&nbsp;&nbsp; <a href="#categories">![](./image/go_top.png)</a>
+### <i id="ComputerNetwork">Computer Network(计算机网络)</i>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
  + [计算机网络之绪论](./ComputerNetwork/计算机网络之绪论.md)
 
 
 ----------------
 
-### <a href="https://github.com/InnoFang/Algorithms"><i id="Algorithms">Algorithms(算法)</i></a>  &nbsp;&nbsp;&nbsp; <a href="#categories">![](./image/go_top.png)</a>
+### <a href="https://github.com/InnoFang/Algorithms"><i id="Algorithms">Algorithms(算法)</i></a>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
 + Sort (排序)
   - [Bubble Sort (冒泡排序)](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/sort/impl/BubbleSort.java)
@@ -76,7 +76,7 @@
 
 ----------------
 
-### <a href="https://github.com/InnoFang/DesignPatterns"><i id="DesignPatterns">Design Patterns(设计模式)</i></a>  &nbsp;&nbsp;&nbsp; <a href="#categories">![](./image/go_top.png)</a>
+### <a href="https://github.com/InnoFang/DesignPatterns"><i id="DesignPatterns">Design Patterns(设计模式)</i></a>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
  + [工厂方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/FactoryMethod)
  + [抽象工厂模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/AbstractFactory)
@@ -91,7 +91,7 @@
  + [模板方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/out/production/Design%20Patterns/io/innofang/TemplateMethod)
 
 ----------------
-### <i id="Utils">Utils(工具类)</i>  &nbsp;&nbsp;&nbsp; <a href="#categories">![](./image/go_top.png)</a>
+### <i id="Utils">Utils(工具类)</i>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
  + [App相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/AppUtil.java)
  + [圆形动画工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CircularAnimUtil.java)
@@ -108,4 +108,4 @@
 
 ---------------
 
- &nbsp;&nbsp;&nbsp; <a href="#categories">返回顶部</a>
+ &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">返回顶部</a>
