@@ -25,18 +25,16 @@
  - [使用HTTP协议访问网络](https://github.com/InnoFang/IFNote/blob/master/Android/%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF/%E4%BD%BF%E7%94%A8HTTP%E5%8D%8F%E8%AE%AE%E8%AE%BF%E9%97%AE%E7%BD%91%E7%BB%9C.md)
  - [基于TCP协议的网络通信](https://github.com/InnoFang/IFNote/blob/master/Android/%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF/%E5%9F%BA%E4%BA%8ETCP%E5%8D%8F%E8%AE%AE%E7%9A%84%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1.md)
  - [用URL访问网络资源](https://github.com/InnoFang/IFNote/blob/master/Android/%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF/%E7%94%A8URL%E8%AE%BF%E9%97%AE%E7%BD%91%E7%BB%9C%E8%B5%84%E6%BA%90.md)
-  - [SQLite数据库](https://innofang.github.io/2017/02/19/SQLite%E7%9A%84%E7%AE%80%E5%8D%95%E5%AE%9E%E7%94%A8/)
-  - [工具栏](https://github.com/InnoFang/IFNote/blob/master/Android/%E6%A0%B7%E5%BC%8F%E5%92%8C%E4%B8%BB%E9%A2%98/%E5%B7%A5%E5%85%B7%E6%A0%8F.md)
-  - [NDK开发从0到1](https://innofang.github.io/2017/04/16/Android-NDK%E5%BC%80%E5%8F%91%E4%BB%8E0%E5%88%B01/)
+ - [SQLite数据库](https://innofang.github.io/2017/02/19/SQLite%E7%9A%84%E7%AE%80%E5%8D%95%E5%AE%9E%E7%94%A8/)
+ - [工具栏](https://github.com/InnoFang/IFNote/blob/master/Android/%E6%A0%B7%E5%BC%8F%E5%92%8C%E4%B8%BB%E9%A2%98/%E5%B7%A5%E5%85%B7%E6%A0%8F.md)  
+ - [NDK开发从0到1](https://innofang.github.io/2017/04/16/Android-NDK%E5%BC%80%E5%8F%91%E4%BB%8E0%E5%88%B01/)
 
 ----------------
 
 ### <i id="Java">Java</i> &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
 + [Set](https://github.com/InnoFang/StudyNotes/blob/master/Java/Set.md)
-
 + [Socket](https://github.com/InnoFang/StudyNotes/blob/master/Java/Socket.md)
-
 + [从零开始的回调](https://innofang.github.io/2017/03/08/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9B%9E%E8%B0%83/)
 
 ----------------
@@ -44,7 +42,6 @@
 ### <i id="ComputerNetwork">Computer Network(计算机网络)</i>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
  + [计算机网络之绪论](./ComputerNetwork/计算机网络之绪论.md)
-
 
 ----------------
 
