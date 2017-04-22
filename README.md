@@ -77,18 +77,19 @@
 ----------------
 ### <i id="Utils">Utils(工具类)</i>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
- + [App相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/AppUtil.java)
+ + [App 相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/AppUtil.java)
  + [圆形动画工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CircularAnimUtil.java)
  + [关闭可关闭类工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CloseUtil.java)
  + [单位转换类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/DensityUtil.java)
- + [Http相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/HttpUtil.java)
+ + [Http 相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/HttpUtil.java)
  + [软键盘相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/KeyBoardUtil.java)
- + [Log同一管理类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/L.java)
+ + [Log 同一管理类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/L.java)
  + [网络相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/NetUtil.java)
  + [获取屏幕相关工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ScreenUtil.java)
- + [SD卡相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SDCardUtil.java)
- + [SharedPreferences封装类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SPUtil.java)
- + [Toast工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ToastUtil.java)
+ + [SD 卡相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SDCardUtil.java)
+ + [SharedPreferences 封装类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SPUtil.java)
+ + [Toast 工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ToastUtil.java)
+ + [CrashHandler 未捕获异常处理器](https://github.com/InnoFang/Android-Code-Demos/blob/master/CrashHandlerDemo/app/src/main/java/io/innofang/crashhandlerdemo/CrashHandler.java)
 
 ---------------
 
