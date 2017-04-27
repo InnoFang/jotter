@@ -16,7 +16,6 @@
 
 ### <i id="Android">Android</i> &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
-<<<<<<< HEAD
 - [Activity间的数据传递](https://github.com/InnoFang/IFNote/blob/master/Android/Activity/Activity%E9%97%B4%E7%9A%84%E6%95%B0%E6%8D%AE%E4%BC%A0%E9%80%92.md)
 - [fragment argument](https://github.com/InnoFang/IFNote/blob/master/Android/Fragment/fragment%20argument.md)
 - [fragment间的数据传递](https://github.com/InnoFang/IFNote/blob/master/Android/Fragment/fragment%E9%97%B4%E7%9A%84%E6%95%B0%E6%8D%AE%E4%BC%A0%E9%80%92.md)
@@ -26,10 +25,9 @@
 - [使用HTTP协议访问网络](https://github.com/InnoFang/IFNote/blob/master/Android/%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF/%E4%BD%BF%E7%94%A8HTTP%E5%8D%8F%E8%AE%AE%E8%AE%BF%E9%97%AE%E7%BD%91%E7%BB%9C.md)
 - [基于TCP协议的网络通信](https://github.com/InnoFang/IFNote/blob/master/Android/%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF/%E5%9F%BA%E4%BA%8ETCP%E5%8D%8F%E8%AE%AE%E7%9A%84%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1.md)
 - [用URL访问网络资源](https://github.com/InnoFang/IFNote/blob/master/Android/%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF/%E7%94%A8URL%E8%AE%BF%E9%97%AE%E7%BD%91%E7%BB%9C%E8%B5%84%E6%BA%90.md)
-  - [SQLite数据库](https://innofang.github.io/2017/02/19/SQLite%E7%9A%84%E7%AE%80%E5%8D%95%E5%AE%9E%E7%94%A8/)
-  - [工具栏](https://github.com/InnoFang/IFNote/blob/master/Android/%E6%A0%B7%E5%BC%8F%E5%92%8C%E4%B8%BB%E9%A2%98/%E5%B7%A5%E5%85%B7%E6%A0%8F.md)
-- [NDK开发从0到1](https://innofang.github.io/2017/04/16/Android-NDK%E5%BC%80%E5%8F%91%E4%BB%8E0%E5%88%B01/)
-=======
+ - [SQLite数据库](https://innofang.github.io/2017/02/19/SQLite%E7%9A%84%E7%AE%80%E5%8D%95%E5%AE%9E%E7%94%A8/)
+ - [工具栏](https://github.com/InnoFang/IFNote/blob/master/Android/%E6%A0%B7%E5%BC%8F%E5%92%8C%E4%B8%BB%E9%A2%98/%E5%B7%A5%E5%85%B7%E6%A0%8F.md)
+ - [NDK开发从0到1](https://innofang.github.io/2017/04/16/Android-NDK%E5%BC%80%E5%8F%91%E4%BB%8E0%E5%88%B01/)
  - [Activity间的数据传递](https://github.com/InnoFang/IFNote/blob/master/Android/Activity/Activity%E9%97%B4%E7%9A%84%E6%95%B0%E6%8D%AE%E4%BC%A0%E9%80%92.md)
  - [fragment argument](https://github.com/InnoFang/IFNote/blob/master/Android/Fragment/fragment%20argument.md)
  - [fragment间的数据传递](https://github.com/InnoFang/IFNote/blob/master/Android/Fragment/fragment%E9%97%B4%E7%9A%84%E6%95%B0%E6%8D%AE%E4%BC%A0%E9%80%92.md)
@@ -42,7 +40,6 @@
  - [SQLite数据库](https://innofang.github.io/2017/02/19/SQLite%E7%9A%84%E7%AE%80%E5%8D%95%E5%AE%9E%E7%94%A8/)
  - [工具栏](https://github.com/InnoFang/IFNote/blob/master/Android/%E6%A0%B7%E5%BC%8F%E5%92%8C%E4%B8%BB%E9%A2%98/%E5%B7%A5%E5%85%B7%E6%A0%8F.md)  
  - [NDK开发从0到1](https://innofang.github.io/2017/04/16/Android-NDK%E5%BC%80%E5%8F%91%E4%BB%8E0%E5%88%B01/)
->>>>>>> 0ad2c58617685f12794a29888f95e7c6bf128571
 
 ----------------
 
@@ -89,11 +86,10 @@
 + [备忘录模式](https://github.com/InnoFang/DesignPatterns/tree/master/out/production/Design%20Patterns/io/innofang/Memento)
 + [模板方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/out/production/Design%20Patterns/io/innofang/TemplateMethod)
 + [代理模式](https://github.com/innofang/designpatterns/tree/master/out/production/Design%20Patterns/io/innofang/Proxy) 
-
++ [适配器模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Adapter)
 ----------------
 ### <i id="Utils">Utils(工具类)</i>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
-<<<<<<< HEAD
 + [App相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/AppUtil.java)
 + [圆形动画工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CircularAnimUtil.java)
 + [关闭可关闭类工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CloseUtil.java)
@@ -106,21 +102,20 @@
 + [SD卡相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SDCardUtil.java)
 + [SharedPreferences封装类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SPUtil.java)
 + [Toast工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ToastUtil.java)
-=======
- + [App 相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/AppUtil.java)
- + [圆形动画工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CircularAnimUtil.java)
- + [关闭可关闭类工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CloseUtil.java)
- + [单位转换类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/DensityUtil.java)
- + [Http 相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/HttpUtil.java)
- + [软键盘相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/KeyBoardUtil.java)
- + [Log 同一管理类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/L.java)
- + [网络相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/NetUtil.java)
- + [获取屏幕相关工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ScreenUtil.java)
- + [SD 卡相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SDCardUtil.java)
- + [SharedPreferences 封装类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SPUtil.java)
- + [Toast 工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ToastUtil.java)
- + [CrashHandler 未捕获异常处理器](https://github.com/InnoFang/Android-Code-Demos/blob/master/CrashHandlerDemo/app/src/main/java/io/innofang/crashhandlerdemo/CrashHandler.java)
->>>>>>> 0ad2c58617685f12794a29888f95e7c6bf128571
++ [App 相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/AppUtil.java)
++ [圆形动画工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CircularAnimUtil.java)
++ [关闭可关闭类工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CloseUtil.java)
++ [单位转换类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/DensityUtil.java)
++ [Http 相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/HttpUtil.java)
++ [软键盘相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/KeyBoardUtil.java)
++ [Log 同一管理类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/L.java)
++ [网络相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/NetUtil.java)
++ [获取屏幕相关工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ScreenUtil.java)
++ [SD 卡相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SDCardUtil.java)
++ [SharedPreferences 封装类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SPUtil.java)
++ [Toast 工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ToastUtil.java)
++ [CrashHandler 未捕获异常处理器](https://github.com/InnoFang/Android-Code-Demos/blob/master/CrashHandlerDemo/app/src/main/java/io/innofang/crashhandlerdemo/CrashHandler.java)
+
 
 ---------------
 
