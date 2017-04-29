@@ -40,7 +40,7 @@
  - [SQLite数据库](https://innofang.github.io/2017/02/19/SQLite%E7%9A%84%E7%AE%80%E5%8D%95%E5%AE%9E%E7%94%A8/)
  - [工具栏](https://github.com/InnoFang/IFNote/blob/master/Android/%E6%A0%B7%E5%BC%8F%E5%92%8C%E4%B8%BB%E9%A2%98/%E5%B7%A5%E5%85%B7%E6%A0%8F.md)  
  - [NDK开发从0到1](https://innofang.github.io/2017/04/16/Android-NDK%E5%BC%80%E5%8F%91%E4%BB%8E0%E5%88%B01/)
-
+ - [RxJava2 使用小记](https://innofang.github.io/2017/04/28/RxJava2-%E4%BD%BF%E7%94%A8%E5%B0%8F%E8%AE%B0/)
 ----------------
 
 ### <i id="Java">Java</i> &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
@@ -116,7 +116,7 @@
 + [Toast 工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ToastUtil.java)
 + [CrashHandler 未捕获异常处理器](https://github.com/InnoFang/Android-Code-Demos/blob/master/CrashHandlerDemo/app/src/main/java/io/innofang/crashhandlerdemo/CrashHandler.java)
 
-
 ---------------
+
 
  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">返回顶部</a>
