@@ -59,17 +59,22 @@
 
 ### <a href="https://github.com/InnoFang/Algorithms"><i id="Algorithms">Algorithms(算法)</i></a>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
-+ Sort (排序)
-  - [Bubble Sort (冒泡排序)](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/sort/impl/BubbleSort.java)
-  - [Selection Sort (选择排序)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/SelectionSort.java)
-  - [Insertion Sort (插入排序)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/InsertionSort.java)
-  - [Shell Sort (希尔排序)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/ShellSort.java)
-  - [Quick Sort (快速排序)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/QuickSort.java)
-  - [Merge Sort (归并排序)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/MergeSort.java)
++ Sort (排序)  [[测试代码](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/SortTest.java)]
+  - [冒泡排序 (Bubble Sort)](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/sort/impl/BubbleSort.java)
+  - [选择排序 (Selection Sort)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/SelectionSort.java)
+  - [插入排序 (Insertion Sort)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/InsertionSort.java)
+  - [希尔排序 (Shell Sort)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/ShellSort.java)
+  - [快速排序 (Quick Sort)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/QuickSort.java)
+  - [归并排序 (Merge Sort)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/MergeSort.java)
 
-+ Search (搜索)
-  - [二分查找](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/search/BinarySearch.java)
++ Search (搜索)  [[测试代码](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/SearchTest.java)]
+  - [二分查找 (Binay Search)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/search/BinarySearch.java)
 
++ Heap (堆)  [[测试代码](https://github.com/innofang/Algorithms/blob/master/src/io/innofang/HeapTest.java)]
+  - [最大堆 (Max Heap)](https://github.com/innofang/Algorithms/blob/master/src/io/innofang/heap/Heap.java)
+
++ 二叉树 (Binary Tree) [[测试代码](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/BSTTest.java)]
+  - [二分搜索树 (Binary Search Tree)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/binarytree/BST.java)
 ----------------
 
 ### <a href="https://github.com/InnoFang/DesignPatterns"><i id="DesignPatterns">Design Patterns(设计模式)</i></a>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
