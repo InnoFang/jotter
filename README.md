@@ -80,18 +80,18 @@
 ### <a href="https://github.com/InnoFang/DesignPatterns"><i id="DesignPatterns">Design Patterns(设计模式)</i></a>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
 + [工厂方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/FactoryMethod)
-+ [抽象工厂模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/AbstractFactory)
-+ [建造者模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Builder)
++ [抽象工厂模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/abstract_factory)
++ [建造者模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/builder)
 + [原型模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Prototype)
 + [单例模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Singleton)
 + [策略模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Strategy)
 + [状态模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/State)
-+ [责任链模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/ChainOfResponsibility)
++ [责任链模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/chain_of_responsibility)
 + [观察者模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Observer)
-+ [备忘录模式](https://github.com/InnoFang/DesignPatterns/tree/master/out/production/Design%20Patterns/io/innofang/Memento)
-+ [模板方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/out/production/Design%20Patterns/io/innofang/TemplateMethod)
-+ [代理模式](https://github.com/innofang/designpatterns/tree/master/out/production/Design%20Patterns/io/innofang/Proxy) 
-+ [适配器模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Adapter)
++ [备忘录模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Memento)
++ [模板方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/TemplateMethod)
++ [代理模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Proxy) 
++ [适配器模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/adapter)
 ----------------
 ### <i id="Utils">Utils(工具类)</i>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
