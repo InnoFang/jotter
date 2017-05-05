@@ -90,8 +90,10 @@
 + [观察者模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Observer)
 + [备忘录模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Memento)
 + [模板方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/TemplateMethod)
++ [迭代器模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Iterator)
 + [代理模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Proxy) 
 + [适配器模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/adapter)
++ [装饰模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/decorator)
 ----------------
 ### <i id="Utils">Utils(工具类)</i>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
