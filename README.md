@@ -79,7 +79,7 @@
 
 ### <a href="https://github.com/InnoFang/DesignPatterns"><i id="DesignPatterns">Design Patterns(设计模式)</i></a>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
-+ [工厂方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/FactoryMethod)
++ [工厂方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/factory_method)
 + [抽象工厂模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/abstract_factory)
 + [建造者模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/builder)
 + [原型模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Prototype)
@@ -90,11 +90,12 @@
 + [观察者模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Observer)
 + [备忘录模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Memento)
 + [模板方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/TemplateMethod)
-+ [迭代器模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Iterator)
++ [迭代器模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/iterator)
 + [代理模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/Proxy) 
 + [适配器模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/adapter)
 + [装饰模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/decorator)
 ----------------
+
 ### <i id="Utils">Utils(工具类)</i>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
 + [App相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/AppUtil.java)
@@ -126,4 +127,6 @@
 ---------------
 
 
- &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">返回顶部</a>
+<p align="center">
+	<a href="#StudyNotes">返回顶部</a>
+</p>
