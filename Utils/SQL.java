@@ -157,7 +157,7 @@ public class SQL {
 
 
         public String create() {
-            return mSql.append(RIGHT_BRACKET).toString();
+            return mSql.append(RIGHT_BRACKET).toString().replace("  ", " ");;
         }
     }
 
