@@ -124,6 +124,7 @@
 + [Toast 工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ToastUtil.java)
 + [CrashHandler 未捕获异常处理器](https://github.com/InnoFang/Android-Code-Demos/blob/master/CrashHandlerDemo/app/src/main/java/io/innofang/crashhandlerdemo/CrashHandler.java)
 + [RequestPermissions 请求运行时权限工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/RequestPermissions.java)
++ [SQL SQL语句创建工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SQL.java)
 
 ---------------
 
