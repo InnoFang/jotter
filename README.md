@@ -100,20 +100,19 @@
 
 + [App相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/AppUtil.java)
 + [圆形动画工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CircularAnimUtil.java)
-+ [Http 相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/HttpUtil.java)
-+ [Log 同一管理类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/L.java)
-+ [网络相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/NetUtil.java)
-+ [获取屏幕相关工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ScreenUtil.java)
-+ [SharedPreferences 封装类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SPUtil.java)
-+ [Toast 工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ToastUtil.java)
 + [关闭可关闭类工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CloseUtil.java)
 + [单位转换类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/DensityUtil.java)
++ [Http 相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/HttpUtil.java)
 + [软键盘相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/KeyBoardUtil.java)
++ [Log 同一管理类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/L.java)
++ [网络相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/NetUtil.java)
++ [RequestPermissions 请求运行时权限工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/RequestPermissions.java)
 + [SD 卡相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SDCardUtil.java)
++ [SharedPreferences 封装类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SPUtil.java)
++ [SQL 建表语句工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SQL.java)
++ [获取屏幕相关工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ScreenUtil.java)
 + [Toast 工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ToastUtil.java)
 + [CrashHandler 未捕获异常处理器](https://github.com/InnoFang/Android-Code-Demos/blob/master/CrashHandlerDemo/app/src/main/java/io/innofang/crashhandlerdemo/CrashHandler.java)
-+ [RequestPermissions 请求运行时权限工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/RequestPermissions.java)
-+ [SQL 建表语句工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SQL.java)
 
 ---------------
 
