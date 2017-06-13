@@ -1,4 +1,4 @@
-﻿
+
 import android.app.Activity;
 import android.content.pm.PackageManager;
 import android.support.annotation.NonNull;
@@ -8,10 +8,9 @@ import android.support.v4.content.ContextCompat;
 import java.util.ArrayList;
 import java.util.List;
 
-import io.innofang.autosms.utils.event.PermissionListener;
-
 /**
  * Author: Inno Fang
+ * Time: 2017/5/11 10:03
  * Description: Request Runtime Permission
  */
 
@@ -20,11 +19,11 @@ public class RequestPermissions {
 
     public static final int PERMISSION_REQUEST_CODE = 1 << 5;
 
-    private static PermissionListener mListener;
+    private static OnRequestPermissionsListener mListener;
 
-    public static void requestRuntimePermission(String[] permissions,
-                                                PermissionListener listener) {
-        Activity topActivity = ActivityCollector.getTopActivity();
+    public static void requestRuntimePermission(Activity activity, String[] permissions,
+                                                OnRequestPermissionsListener listener) {
+        Activity topActivity = activity;
         if (null == topActivity) {
             return;
         }
@@ -74,6 +73,14 @@ public class RequestPermissions {
                 }
                 break;
         }
+    }
+
+    public interface OnRequestPermissionsListener {
+        /* 权限已授权 */
+        void onGranted();
+
+        /* 权限被拒绝 */
+        void onDenied(List<String> deniedPermission);
     }
 
 }
