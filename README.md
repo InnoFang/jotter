@@ -97,7 +97,7 @@
 ----------------
 
 ### <i id="Utils">Utils(工具类)</i>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
-
++ [Activity 栈管理](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ActivityCollector.java)
 + [App相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/AppUtil.java)
 + [圆形动画工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CircularAnimUtil.java)
 + [关闭可关闭类工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CloseUtil.java)
