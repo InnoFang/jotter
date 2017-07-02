@@ -4,7 +4,6 @@
  */
 public class SQL {
 
-    private static StringBuilder mSql = new StringBuilder();
     private static final String PRIMARY_KEY = " primary key ";
     private static final String AUTOINCREMENT = " autoincrement ";
     private static final String LEFT_BRACKET = "(";
@@ -16,7 +15,7 @@ public class SQL {
     private static final String DOUBLE = " double ";
     private static final String CHAR = " char(10) ";
     private static final String TEXT = " text ";
-
+    private static StringBuilder mSql ;
 
     public static SQLBuilder createTable(String tableName) {
         return new SQLBuilder(tableName);
@@ -25,7 +24,8 @@ public class SQL {
     public static class SQLBuilder {
 
         public SQLBuilder(String tableName) {
-            mSql.append("create table ")
+            mSql = new StringBuilder();
+            mSql.append("create table if not exists ")
                     .append(tableName)
                     .append(LEFT_BRACKET);
         }
