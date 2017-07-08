@@ -94,6 +94,7 @@
 + [代理模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/proxy) 
 + [适配器模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/adapter)
 + [装饰模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/decorator)
++ [外观模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/facade)
 ----------------
 
 ### <i id="Utils">Utils(工具类)</i>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
