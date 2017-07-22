@@ -100,6 +100,13 @@ public class CustomPopupWindow {
         return mPopupWindow;
     }
 
+    public boolean isShowing(){
+        if (null != mPopupWindow) {
+           return mPopupWindow.isShowing();
+        }
+        return false;
+    }
+
     public void dismiss() {
         if (null != mPopupWindow) {
             mPopupWindow.dismiss();
