@@ -1,4 +1,4 @@
-<img id="StudyNotes" src="./image/StudyNotes.png" />
+ <img id="StudyNotes" src="./image/StudyNotes.png" />
 
  <dl>
     <dt>Categories(目录)</dt>
@@ -10,7 +10,7 @@
     <dd><a href="#Utils">工具类</a></dd>
  </dl>
 
- 更多内容，请看[这里](https://innofang.github.io) :-)
+ 记录平时学习的东西。更多内容，请看[这里](https://innofang.github.io) :-)
 
 ----------------
 
@@ -116,6 +116,7 @@
 + [Toast 工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ToastUtil.java)
 + [CrashHandler 未捕获异常处理器](https://github.com/InnoFang/Android-Code-Demos/blob/master/CrashHandlerDemo/app/src/main/java/io/innofang/crashhandlerdemo/CrashHandler.java)
 + [创建 PopupWindow 工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CustomPopupWindow.java)
++ [单例工厂](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SingletonFactory.java)
 
 ---------------
 
