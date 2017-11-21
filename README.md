@@ -8,6 +8,7 @@
     <dd><a href="#Algorithms">算法</a></dd>
     <dd><a href="#DesignPatterns">设计模式</a></dd>
     <dd><a href="#Utils">工具类</a></dd>
+    <dd><a href="#MySqlNotes">MySQL 学习笔记</a></dd>
  </dl>
 
  记录平时学习的东西。更多内容，请看[这里](https://innofang.github.io) :-)
