@@ -127,6 +127,10 @@
 + [MySQL 学习之数据表（一）](https://innofang.github.io/2017/07/23/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%A1%A8(%E4%B8%80)%20/)
 + [MySQL 学习之数据表（二）](https://innofang.github.io/2017/07/23/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%A1%A8(%E4%BA%8C)/)
 
+### <i id="assembly">汇编语言学习笔记</i>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
+
++ [汇编语言学习笔记（一）：基础知识](https://innofang.github.io/2017/11/17/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/)
+
 ---------------
 
 <p align="center">
