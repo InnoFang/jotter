@@ -42,7 +42,8 @@
  - [工具栏](https://github.com/InnoFang/IFNote/blob/master/Android/%E6%A0%B7%E5%BC%8F%E5%92%8C%E4%B8%BB%E9%A2%98/%E5%B7%A5%E5%85%B7%E6%A0%8F.md)  
  - [NDK开发从0到1](https://innofang.github.io/2017/04/16/Android-NDK%E5%BC%80%E5%8F%91%E4%BB%8E0%E5%88%B01/)
  - [RxJava2 使用小记](https://innofang.github.io/2017/04/28/RxJava2-%E4%BD%BF%E7%94%A8%E5%B0%8F%E8%AE%B0/)
-----------------
+ 
+
 
 ### <i id="Java">Java</i> &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
@@ -50,13 +51,14 @@
 + [Socket](https://github.com/InnoFang/StudyNotes/blob/master/Java/Socket.md)
 + [从零开始的回调](https://innofang.github.io/2017/03/08/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9B%9E%E8%B0%83/)
 
-----------------
+
+
 
 ### <i id="ComputerNetwork">Computer Network(计算机网络)</i>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
 + [计算机网络之绪论](./ComputerNetwork/计算机网络之绪论.md)
 
-----------------
+
 
 ### <a href="https://github.com/InnoFang/Algorithms"><i id="Algorithms">Algorithms(算法)</i></a>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
@@ -76,7 +78,8 @@
 
 + 二叉树 (Binary Tree) [[测试代码](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/BSTTest.java)]
   - [二分搜索树 (Binary Search Tree)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/binarytree/BST.java)
-----------------
+
+
 
 ### <a href="https://github.com/InnoFang/DesignPatterns"><i id="DesignPatterns">Design Patterns(设计模式)</i></a>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
 
@@ -97,9 +100,11 @@
 + [装饰模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/decorator)
 + [外观模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/facade)
 + [享元模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/flyweight)
-----------------
+
+
 
 ### <i id="Utils">Utils(工具类)</i>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](./image/go_top.png)</a>
+
 + [Activity 栈管理](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ActivityCollector.java)
 + [App相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/AppUtil.java)
 + [圆形动画工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CircularAnimUtil.java)
