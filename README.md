@@ -138,6 +138,7 @@
 + [汇编语言学习笔记（二）：寄存器](https://innofang.github.io/2017/11/18/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9A%E5%AF%84%E5%AD%98%E5%99%A8/)
 + [汇编语言学习笔记（三）：寄存器（内存访问）](https://innofang.github.io/2017/11/19/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%89%EF%BC%89%EF%BC%9A%E5%AF%84%E5%AD%98%E5%99%A8%EF%BC%88%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE%EF%BC%89/)
 + [汇编语言学习笔记（四）：第一个程序](https://innofang.github.io/2017/11/20/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%9B%9B%EF%BC%89%EF%BC%9A%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F/)
++ [汇编语言学习笔记（五）：[BX] 和 loop 指令](https://innofang.github.io/2017/11/22/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%94%EF%BC%89%EF%BC%9A-BX-%E5%92%8C-loop-%E6%8C%87%E4%BB%A4/)
 ---------------
 
 <p align="center">
