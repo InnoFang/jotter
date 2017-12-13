@@ -140,7 +140,10 @@
 + [汇编语言学习笔记（四）：第一个程序](https://innofang.github.io/2017/11/20/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%9B%9B%EF%BC%89%EF%BC%9A%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F/)
 + [汇编语言学习笔记（五）：[BX] 和 loop 指令](https://innofang.github.io/2017/11/22/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%94%EF%BC%89%EF%BC%9A-BX-%E5%92%8C-loop-%E6%8C%87%E4%BB%A4/)
 + [汇编语言学习笔记（六）：包含多个段的程序](https://innofang.github.io/2017/11/23/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%85%AD%EF%BC%89%EF%BC%9A%E5%8C%85%E5%90%AB%E5%A4%9A%E4%B8%AA%E6%AE%B5%E7%9A%84%E7%A8%8B%E5%BA%8F/)
++ [汇编语言学习笔记（七）：更灵活的定位内存地址的方法](https://innofang.github.io/2017/11/24/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%83%EF%BC%89%EF%BC%9A%E6%9B%B4%E7%81%B5%E6%B4%BB%E7%9A%84%E5%AE%9A%E4%BD%8D%E5%86%85%E5%AD%98%E5%9C%B0%E5%9D%80%E7%9A%84%E6%96%B9%E6%B3%95/)
+
 ---------------
+
 
 <p align="center">
 	<a href="#StudyNotes">返回顶部</a>
