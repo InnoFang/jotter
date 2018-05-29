@@ -100,6 +100,7 @@
 + [装饰模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/decorator)
 + [外观模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/facade)
 + [享元模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/flyweight)
++ [访问者模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/visitor)
 
 
 
