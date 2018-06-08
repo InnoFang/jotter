@@ -1,4 +1,6 @@
- <img id="StudyNotes" src="./image/StudyNotes.png" />
+ <div align="center">
+  <img id="StudyNotes" src="./image/StudyNotes.png" />
+</div>
 
  <dl>
     <dt>Categories(目录)</dt>
