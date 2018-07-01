@@ -129,11 +129,11 @@
 
 ### <i id="MySqlNotes">MySQL 学习笔记</i>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](https://raw.githubusercontent.com/InnoFang/StudyNotes/image-hosting/go_top.png)</a>
 
-+ [MySQL 学习之初识](https://innofang.github.io/2017/07/16/MySQL%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%88%9D%E8%AF%86/)
-+ [MySQL 学习之数据模型](https://innofang.github.io/2017/07/17/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/)
-+ [MySQL 学习之约束](https://innofang.github.io/2017/07/17/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E7%BA%A6%E6%9D%9F/)
-+ [MySQL 学习之数据表（一）](https://innofang.github.io/2017/07/23/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%A1%A8(%E4%B8%80)%20/)
-+ [MySQL 学习之数据表（二）](https://innofang.github.io/2017/07/23/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%A1%A8(%E4%BA%8C)/)
++ [MySQL 学习之初识](https://github.com/InnoFang/StudyNotes/blob/master/MySQL/MySQL%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%88%9D%E8%AF%86.md)
++ [MySQL 学习之数据类型](https://github.com/InnoFang/StudyNotes/blob/master/MySQL/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
++ [MySQL 学习之约束](https://github.com/InnoFang/StudyNotes/blob/master/MySQL/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E7%BA%A6%E6%9D%9F.md)
++ [MySQL 学习之数据表（一）](https://github.com/InnoFang/StudyNotes/blob/master/MySQL/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%A1%A8(%E4%B8%80)%20.md)
++ [MySQL 学习之数据表（二）](https://github.com/InnoFang/StudyNotes/blob/master/MySQL/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%A1%A8(%E4%BA%8C).md)
 
 ### <i id="assembly">汇编语言学习笔记</i>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](https://raw.githubusercontent.com/InnoFang/StudyNotes/image-hosting/go_top.png)</a>
 
