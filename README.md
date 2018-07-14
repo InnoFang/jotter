@@ -11,6 +11,7 @@
     <dd><a href="#DesignPatterns">设计模式</a></dd>
     <dd><a href="#Utils">工具类</a></dd>
     <dd><a href="#MySqlNotes">MySQL 学习笔记</a></dd>
+    <dd><a href="#AssemblyLanguage">MySQL 学习笔记</a></dd>
  </dl>
 
  记录平时学习的东西。更多内容，请看[这里](https://innofang.github.io) :-)
@@ -135,7 +136,7 @@
 + [MySQL 学习之数据表（一）](https://github.com/InnoFang/StudyNotes/blob/master/MySQL/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%A1%A8(%E4%B8%80)%20.md)
 + [MySQL 学习之数据表（二）](https://github.com/InnoFang/StudyNotes/blob/master/MySQL/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%A1%A8(%E4%BA%8C).md)
 
-### <i id="assembly">汇编语言学习笔记</i>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](https://raw.githubusercontent.com/InnoFang/StudyNotes/image-hosting/go_top.png)</a>
+### <i id="AssemblyLanguage">汇编语言学习笔记</i>  &nbsp;&nbsp;&nbsp; <a href="#StudyNotes">![](https://raw.githubusercontent.com/InnoFang/StudyNotes/image-hosting/go_top.png)</a>
 
 + [汇编语言学习笔记（一）：基础知识](https://github.com/InnoFang/StudyNotes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
 + [汇编语言学习笔记（二）：寄存器](https://github.com/InnoFang/StudyNotes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9A%E5%AF%84%E5%AD%98%E5%99%A8.md)
