@@ -1,8 +1,8 @@
-layout: title
 title: 汇编语言学习笔记（十）：CALL 和 RET 指令
 date: 2017-11-27 10:47:08
 tags: 汇编语言
 categories: 汇编语言
+
 ---
 
 
