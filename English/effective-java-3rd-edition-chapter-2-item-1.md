@@ -28,3 +28,7 @@ aggregation                                         |聚集;集结;集成;聚集
 incorporates                                        |包含;组成公司( incorporate的第三人称单数 );使混合;使具体化
 verbose                                             |冗长的，啰唆的，累赘的
 relative merits                                     |优缺点
+partway                                             |中途
+enforcing                                           |执行;强制执行;强迫;实施( enforce的现在分词 )
+precludes                                           |排除;妨碍;阻止( preclude的第三人称单数 );使…行不通
+manually                                            |用手地，手工地
