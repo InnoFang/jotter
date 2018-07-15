@@ -2,17 +2,16 @@
   <img id="StudyNotes" src="https://raw.githubusercontent.com/InnoFang/StudyNotes/image-hosting/StudyNotes.png" />
 </div>
 
- <dl>
-    <dt>Categories(目录)</dt>
-    <dd><a href="#Android">Android</a></dd>
-    <dd><a href="#Java">Java</a></dd>
-    <dd><a href="#ComputerNetwork">计算机网络</a></dd>
-    <dd><a href="#Algorithms">算法</a></dd>
-    <dd><a href="#DesignPatterns">设计模式</a></dd>
-    <dd><a href="#Utils">工具类</a></dd>
-    <dd><a href="#MySqlNotes">MySQL 学习笔记</a></dd>
-    <dd><a href="#AssemblyLanguage">汇编语言学习笔记</a></dd>
- </dl>
+📃 ***Categories(目录)***
+
+  + [Android](#Android) 
+  + [Java](#Java)
+  + [计算机网络](#ComputerNetwork)
+  + [算法](#Algorithms)
+  + [设计模式](#DesignPatterns)
+  + [工具类](#Utils)
+  + [MySQL 学习笔记](#MySqlNotes)
+  + [汇编语言学习笔记](#AssemblyLanguage)
 
  记录平时学习的东西。更多内容，请看[这里](https://innofang.github.io) :-)
 
