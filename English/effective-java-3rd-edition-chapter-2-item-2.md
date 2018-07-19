@@ -33,6 +33,31 @@ omitted                                             |遗漏; 省略( omit的过�
 brevity                                             |简洁; 短暂
 invariants	                                        |不变性;不变式;不变量;不变数据;不变关系
 hierarchies                                         |等级制度( hierarchy的名词复数 ); 统治集团; 领导
+workaround                                          |工作区；解决方法
+simulated                                           |假装的; 冒充的; 仿造的; 模仿的; 假装( simulate的过去式和过去分词 ); 模仿; 模拟
+idiom                                               |习语，成语; 方言，土语; 风格; 惯用语法
+calzone                                             |半圆形烤（乳酪）馅饼
+former                                              |以前的，从前的; 在前的; 前任的; 模型，样板; 构成者，创造者; 起形成作用的人; 线圈架
+is declared to                                      |被声明为
+wherein                                             |其中; 在那里，在哪方面; 在哪一点上; 在什么地方
+covariant                                           |协变式的，协变的
+hierarchical                                        |分层的; 按等级划分的，等级的
+identical to                                        |与…相同
+essentially                                         |本质上，根本上; 本来; “essential”的派生
+assumes                                             |假定; 假设; 呈现; 取得( assume的第三人称单数 )
+minor                                               |较小的，少数的，小…; 未成年的; 小调的，小音阶的; 年幼的; 未成年人; 副修科目; 小
+Alternatively                                       |或者; 二者择一地; 要不然
+aggregate                                           |骨料; 合计; 聚集体; 集料; 总数的，总计的; 聚合的; 聚成岩的; 使聚集，使积聚; 总
+tweak                                               |微调
+upon                                                |在…上面; 当…时候
+serial number                                       |序号，序列号，轴号
+noticeable                                          |显而易见的，明显的; 引人注目的，令人瞩目的; 显著的，重要的; 可以察觉的
+out of hand                                         |无法控制; 立即; 终于; 难以收拾
+stick out like a sore thumb                         |显得别扭
+start with                                          |以…开始
+in the first place                                  |首先，从一开始; 压根儿; 固; 当初
+evolves                                             |演变，进化( evolve的第三人称单数 ); 进化，进化形成
+obsolete                                            |过时的
 
 ## Translation
 
