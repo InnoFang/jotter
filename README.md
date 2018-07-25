@@ -15,7 +15,7 @@
 
  记录平时学习的东西。更多内容，请看[这里](https://innofang.github.io) :-)
 
- 这是我的简历，详情请见[此处](https://github.com/InnoFang/oh-my-study-notes/blob/resume/RESUME.pdf)
+关于我的简历，详情请见[此处](https://github.com/InnoFang/oh-my-study-notes/blob/resume/RESUME.pdf)
 
 ----------------
 
