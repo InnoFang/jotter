@@ -2,6 +2,8 @@
   <img id="StudyNotes" src="https://raw.githubusercontent.com/InnoFang/StudyNotes/image-hosting/StudyNotes.png" />
 </div>
 
+<br/>
+
 📃 ***Categories(目录)***
 
   + [Android](#Android) 
@@ -9,7 +11,7 @@
   + [计算机网络](#ComputerNetwork)
   + [算法](#Algorithms)
   + [设计模式](#DesignPatterns)
-  + [工具类](#Utils)
+  + [工具类](#Utility)
   + [MySQL 学习笔记](#MySqlNotes)
   + [汇编语言学习笔记](#AssemblyLanguage)
 
@@ -108,26 +110,26 @@
 
 
 
-## <i id="Utils">Utils(工具类)</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/StudyNotes/image-hosting/go_top.png)](#StudyNotes)
+## <i id="Utility">Utility(工具类)</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/StudyNotes/image-hosting/go_top.png)](#StudyNotes)
 
-+ [Activity 栈管理](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ActivityCollector.java)
-+ [App相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/AppUtil.java)
-+ [圆形动画工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CircularAnimUtil.java)
-+ [关闭可关闭类工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CloseUtil.java)
-+ [单位转换类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/DensityUtil.java)
-+ [Http 相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/HttpUtil.java)
-+ [软键盘相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/KeyBoardUtil.java)
-+ [Log 同一管理类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/L.java)
-+ [网络相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/NetUtil.java)
-+ [RequestPermissions 请求运行时权限工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/RequestPermissions.java)
-+ [SD 卡相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SDCardUtil.java)
-+ [SharedPreferences 封装类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SPUtil.java)
-+ [SQL 建表语句工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SQL.java)
-+ [获取屏幕相关工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ScreenUtil.java)
-+ [Toast 工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/ToastUtil.java)
++ [Activity 栈管理](https://github.com/InnoFang/StudyNotes/blob/master/Utility/ActivityCollector.java)
++ [App相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utility/AppUtil.java)
++ [圆形动画工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utility/CircularAnimUtil.java)
++ [关闭可关闭类工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utility/CloseUtil.java)
++ [单位转换类](https://github.com/InnoFang/StudyNotes/blob/master/Utility/DensityUtil.java)
++ [Http 相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utility/HttpUtil.java)
++ [软键盘相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utility/KeyBoardUtil.java)
++ [Log 同一管理类](https://github.com/InnoFang/StudyNotes/blob/master/Utility/L.java)
++ [网络相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utility/NetUtil.java)
++ [RequestPermissions 请求运行时权限工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utility/RequestPermissions.java)
++ [SD 卡相关辅助类](https://github.com/InnoFang/StudyNotes/blob/master/Utility/SDCardUtil.java)
++ [SharedPreferences 封装类](https://github.com/InnoFang/StudyNotes/blob/master/Utility/SPUtil.java)
++ [SQL 建表语句工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utility/SQL.java)
++ [获取屏幕相关工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utility/ScreenUtil.java)
++ [Toast 工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utility/ToastUtil.java)
 + [CrashHandler 未捕获异常处理器](https://github.com/InnoFang/Android-Code-Demos/blob/master/CrashHandlerDemo/app/src/main/java/io/innofang/crashhandlerdemo/CrashHandler.java)
-+ [创建 PopupWindow 工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utils/CustomPopupWindow.java)
-+ [单例工厂](https://github.com/InnoFang/StudyNotes/blob/master/Utils/SingletonFactory.java)
++ [创建 PopupWindow 工具类](https://github.com/InnoFang/StudyNotes/blob/master/Utility/CustomPopupWindow.java)
++ [单例工厂](https://github.com/InnoFang/StudyNotes/blob/master/Utility/SingletonFactory.java)
 
 ## <i id="MySqlNotes">MySQL 学习笔记</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/StudyNotes/image-hosting/go_top.png)](#StudyNotes)
 
