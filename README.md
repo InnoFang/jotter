@@ -15,9 +15,7 @@
   + [MySQL 学习笔记](#MySqlNotes)
   + [汇编语言学习笔记](#AssemblyLanguage)
 
- 记录平时学习的东西。更多内容，请看[这里](https://innofang.github.io) :-)
-
-关于我的简历，详情请见[此处](https://github.com/InnoFang/oh-my-study-notes/blob/resume/RESUME.pdf)
+ 记录平时学习的东西。更多内容，请看[这里](https://innofang.github.io) :-) 
 
 ----------------
 
