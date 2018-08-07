@@ -1,5 +1,5 @@
  <div align="center">
-  <img id="StudyNotes" src="https://raw.githubusercontent.com/InnoFang/StudyNotes/image-hosting/StudyNotes.png" />
+  <img id="StudyNotes" src="https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/StudyNotes.png" />
 </div>
 
 <br/>
@@ -20,7 +20,7 @@
 
 ----------------
 
-## <i id="Android">Android</i> &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/StudyNotes/image-hosting/go_top.png)](#StudyNotes)
+## <i id="Android">Android</i> &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
 
 - [Activity间的数据传递](https://github.com/InnoFang/IFNote/blob/master/Android/Activity/Activity%E9%97%B4%E7%9A%84%E6%95%B0%E6%8D%AE%E4%BC%A0%E9%80%92.md)
 - [fragment argument](https://github.com/InnoFang/IFNote/blob/master/Android/Fragment/fragment%20argument.md)
@@ -50,14 +50,14 @@
  
 
 
-## <i id="Java">Java</i> &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/StudyNotes/image-hosting/go_top.png)](#StudyNotes)
+## <i id="Java">Java</i> &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
 
-+ [Set](https://github.com/InnoFang/StudyNotes/blob/master/Java/Set.md)
-+ [Socket](https://github.com/InnoFang/StudyNotes/blob/master/Java/Socket.md)
++ [Set](https://github.com/InnoFang/oh-my-study-notes/blob/master/Java/Set.md)
++ [Socket](https://github.com/InnoFang/oh-my-study-notes/blob/master/Java/Socket.md)
 + [从零开始的回调](https://innofang.github.io/2017/03/08/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9B%9E%E8%B0%83/)
 
 
-## <i id="MachineLearning">机器学习</i> &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/StudyNotes/image-hosting/go_top.png)](#StudyNotes)
+## <i id="MachineLearning">机器学习</i> &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
 
 + [机器学习实战学习笔记（一）：基础](https://github.com/InnoFang/oh-my-study-notes/blob/master/MachineLearning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E5%9F%BA%E7%A1%80.md)
 + [机器学习实战学习笔记（二）：KNN](https://github.com/InnoFang/oh-my-study-notes/blob/master/MachineLearning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9AKNN.md)
@@ -67,13 +67,13 @@
 + [机器学习实战学习笔记（六）：支持向量机](https://github.com/InnoFang/oh-my-study-notes/blob/master/MachineLearning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%85%AD%EF%BC%89%EF%BC%9A%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA.md)
 
 
-## <i id="ComputerNetwork">Computer Network(计算机网络)</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/StudyNotes/image-hosting/go_top.png)](#StudyNotes)
+## <i id="ComputerNetwork">Computer Network(计算机网络)</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
 
 + [计算机网络之绪论](./ComputerNetwork/计算机网络之绪论.md)
 
 
 
-## <a href="https://github.com/InnoFang/Algorithms"><i id="Algorithms">Algorithms(算法)</i></a>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/StudyNotes/image-hosting/go_top.png)](#StudyNotes)
+## <a href="https://github.com/InnoFang/Algorithms"><i id="Algorithms">Algorithms(算法)</i></a>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
 
 + Sort (排序)  [[测试代码](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/SortTest.java)]
   - [冒泡排序 (Bubble Sort)](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/sort/impl/BubbleSort.java)
@@ -94,7 +94,7 @@
 
 
 
-## <a href="https://github.com/InnoFang/DesignPatterns"><i id="DesignPatterns">Design Patterns(设计模式)</i></a>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/StudyNotes/image-hosting/go_top.png)](#StudyNotes)
+## <a href="https://github.com/InnoFang/DesignPatterns"><i id="DesignPatterns">Design Patterns(设计模式)</i></a>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
 
 + [工厂方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/factory_method)
 + [抽象工厂模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/abstract_factory)
@@ -117,48 +117,48 @@
 
 
 
-## <i id="Utility">Utility(工具类)</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/StudyNotes/image-hosting/go_top.png)](#StudyNotes)
+## <i id="Utility">Utility(工具类)</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
 
-+ [Activity 栈管理](https://github.com/InnoFang/StudyNotes/Android/blob/master/Utility/ActivityCollector.java)
-+ [App相关辅助类](https://github.com/InnoFang/StudyNotes/Android/blob/master/Utility/AppUtil.java)
-+ [圆形动画工具类](https://github.com/InnoFang/StudyNotes/Android/blob/master/Utility/CircularAnimUtil.java)
-+ [关闭可关闭类工具类](https://github.com/InnoFang/StudyNotes/Android/blob/master/Utility/CloseUtil.java)
-+ [单位转换类](https://github.com/InnoFang/StudyNotes/Android/blob/master/Utility/DensityUtil.java)
-+ [Http 相关辅助类](https://github.com/InnoFang/StudyNotes/Android/blob/master/Utility/HttpUtil.java)
-+ [软键盘相关辅助类](https://github.com/InnoFang/StudyNotes/Android/blob/master/Utility/KeyBoardUtil.java)
-+ [Log 同一管理类](https://github.com/InnoFang/StudyNotes/Android/blob/master/Utility/L.java)
-+ [网络相关辅助类](https://github.com/InnoFang/StudyNotes/Android/blob/master/Utility/NetUtil.java)
-+ [RequestPermissions 请求运行时权限工具类](https://github.com/InnoFang/StudyNotes/Android/blob/master/Utility/RequestPermissions.java)
-+ [SD 卡相关辅助类](https://github.com/InnoFang/StudyNotes/Android/blob/master/Utility/SDCardUtil.java)
-+ [SharedPreferences 封装类](https://github.com/InnoFang/StudyNotes/Android/blob/master/Utility/SPUtil.java)
-+ [SQL 建表语句工具类](https://github.com/InnoFang/StudyNotes/Android/blob/master/Utility/SQL.java)
-+ [获取屏幕相关工具类](https://github.com/InnoFang/StudyNotes/Android/blob/master/Utility/ScreenUtil.java)
-+ [Toast 工具类](https://github.com/InnoFang/StudyNotes/Android/blob/master/Utility/ToastUtil.java)
++ [Activity 栈管理](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/ActivityCollector.java)
++ [App相关辅助类](https://github.com/InnoFang/oh-my-study-notes/Android/blob/master/Utility/AppUtil.java)
++ [圆形动画工具类](https://github.com/InnoFang/oh-my-study-notes/Android/blob/master/Utility/CircularAnimUtil.java)
++ [关闭可关闭类工具类](https://github.com/InnoFang/oh-my-study-notes/Android/blob/master/Utility/CloseUtil.java)
++ [单位转换类](https://github.com/InnoFang/oh-my-study-notes/Android/blob/master/Utility/DensityUtil.java)
++ [Http 相关辅助类](https://github.com/InnoFang/oh-my-study-notes/Android/blob/master/Utility/HttpUtil.java)
++ [软键盘相关辅助类](https://github.com/InnoFang/oh-my-study-notes/Android/blob/master/Utility/KeyBoardUtil.java)
++ [Log 同一管理类](https://github.com/InnoFang/oh-my-study-notes/Android/blob/master/Utility/L.java)
++ [网络相关辅助类](https://github.com/InnoFang/oh-my-study-notes/Android/blob/master/Utility/NetUtil.java)
++ [RequestPermissions 请求运行时权限工具类](https://github.com/InnoFang/oh-my-study-notes/Android/blob/master/Utility/RequestPermissions.java)
++ [SD 卡相关辅助类](https://github.com/InnoFang/oh-my-study-notes/Android/blob/master/Utility/SDCardUtil.java)
++ [SharedPreferences 封装类](https://github.com/InnoFang/oh-my-study-notes/Android/blob/master/Utility/SPUtil.java)
++ [SQL 建表语句工具类](https://github.com/InnoFang/oh-my-study-notes/Android/blob/master/Utility/SQL.java)
++ [获取屏幕相关工具类](https://github.com/InnoFang/oh-my-study-notes/Android/blob/master/Utility/ScreenUtil.java)
++ [Toast 工具类](https://github.com/InnoFang/oh-my-study-notes/Android/blob/master/Utility/ToastUtil.java)
 + [CrashHandler 未捕获异常处理器](https://github.com/InnoFang/Android-Code-Demos/Android/blob/master/CrashHandlerDemo/app/src/main/java/io/innofang/crashhandlerdemo/CrashHandler.java)
-+ [创建 PopupWindow 工具类](https://github.com/InnoFang/StudyNotes/Android/blob/master/Utility/CustomPopupWindow.java)
-+ [单例工厂](https://github.com/InnoFang/StudyNotes/Android/blob/master/Utility/SingletonFactory.java)
++ [创建 PopupWindow 工具类](https://github.com/InnoFang/oh-my-study-notes/Android/blob/master/Utility/CustomPopupWindow.java)
++ [单例工厂](https://github.com/InnoFang/oh-my-study-notes/Android/blob/master/Utility/SingletonFactory.java)
 
-## <i id="MySqlNotes">MySQL 学习笔记</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/StudyNotes/image-hosting/go_top.png)](#StudyNotes)
+## <i id="MySqlNotes">MySQL 学习笔记</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
 
-+ [MySQL 学习之初识](https://github.com/InnoFang/StudyNotes/blob/master/MySQL/MySQL%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%88%9D%E8%AF%86.md)
-+ [MySQL 学习之数据类型](https://github.com/InnoFang/StudyNotes/blob/master/MySQL/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
-+ [MySQL 学习之约束](https://github.com/InnoFang/StudyNotes/blob/master/MySQL/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E7%BA%A6%E6%9D%9F.md)
-+ [MySQL 学习之数据表（一）](https://github.com/InnoFang/StudyNotes/blob/master/MySQL/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%A1%A8(%E4%B8%80)%20.md)
-+ [MySQL 学习之数据表（二）](https://github.com/InnoFang/StudyNotes/blob/master/MySQL/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%A1%A8(%E4%BA%8C).md)
++ [MySQL 学习之初识](https://github.com/InnoFang/oh-my-study-notes/blob/master/MySQL/MySQL%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%88%9D%E8%AF%86.md)
++ [MySQL 学习之数据类型](https://github.com/InnoFang/oh-my-study-notes/blob/master/MySQL/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
++ [MySQL 学习之约束](https://github.com/InnoFang/oh-my-study-notes/blob/master/MySQL/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E7%BA%A6%E6%9D%9F.md)
++ [MySQL 学习之数据表（一）](https://github.com/InnoFang/oh-my-study-notes/blob/master/MySQL/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%A1%A8(%E4%B8%80)%20.md)
++ [MySQL 学习之数据表（二）](https://github.com/InnoFang/oh-my-study-notes/blob/master/MySQL/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%A1%A8(%E4%BA%8C).md)
 
-## <i id="AssemblyLanguage">汇编语言学习笔记</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/StudyNotes/image-hosting/go_top.png)](#StudyNotes)
+## <i id="AssemblyLanguage">汇编语言学习笔记</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#oh-my-study-notes)
 
-+ [汇编语言学习笔记（一）：基础知识](https://github.com/InnoFang/StudyNotes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
-+ [汇编语言学习笔记（二）：寄存器](https://github.com/InnoFang/StudyNotes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9A%E5%AF%84%E5%AD%98%E5%99%A8.md)
-+ [汇编语言学习笔记（三）：寄存器（内存访问）](https://github.com/InnoFang/StudyNotes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%89%EF%BC%89%EF%BC%9A%E5%AF%84%E5%AD%98%E5%99%A8%EF%BC%88%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE%EF%BC%89.md)
-+ [汇编语言学习笔记（四）：第一个程序](https://github.com/InnoFang/StudyNotes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%9B%9B%EF%BC%89%EF%BC%9A%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F.md)
-+ [汇编语言学习笔记（五）：[BX] 和 loop 指令](https://github.com/InnoFang/StudyNotes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%94%EF%BC%89%EF%BC%9A-BX-%E5%92%8C-loop-%E6%8C%87%E4%BB%A4.md)
-+ [汇编语言学习笔记（六）：包含多个段的程序](https://github.com/InnoFang/StudyNotes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%85%AD%EF%BC%89%EF%BC%9A%E5%8C%85%E5%90%AB%E5%A4%9A%E4%B8%AA%E6%AE%B5%E7%9A%84%E7%A8%8B%E5%BA%8F.md)
-+ [汇编语言学习笔记（七）：更灵活的定位内存地址的方法](https://github.com/InnoFang/StudyNotes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%83%EF%BC%89%EF%BC%9A%E6%9B%B4%E7%81%B5%E6%B4%BB%E7%9A%84%E5%AE%9A%E4%BD%8D%E5%86%85%E5%AD%98%E5%9C%B0%E5%9D%80%E7%9A%84%E6%96%B9%E6%B3%95.md)
-+ [汇编语言学习笔记（八）：数据处理的两个基本问题](https://github.com/InnoFang/StudyNotes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%85%AB%EF%BC%89%EF%BC%9A%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%9A%84%E4%B8%A4%E4%B8%AA%E5%9F%BA%E6%9C%AC%E9%97%AE%E9%A2%98.md)
-+ [汇编语言学习笔记（九）：转移指令的原理](https://github.com/InnoFang/StudyNotes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B9%9D%EF%BC%89%EF%BC%9A%E8%BD%AC%E7%A7%BB%E6%8C%87%E4%BB%A4%E7%9A%84%E5%8E%9F%E7%90%86.md)
-+ [汇编语言学习笔记（十）：CALL-和-RET-指令](https://github.com/InnoFang/StudyNotes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%8D%81%EF%BC%89%EF%BC%9ACALL-%E5%92%8C-RET-%E6%8C%87%E4%BB%A4.md)
-+ [汇编语言学习笔记（十一）：标志寄存器](https://github.com/InnoFang/StudyNotes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%8D%81%E4%B8%80%EF%BC%89%EF%BC%9A%E6%A0%87%E5%BF%97%E5%AF%84%E5%AD%98%E5%99%A8.md)
++ [汇编语言学习笔记（一）：基础知识](https://github.com/InnoFang/oh-my-study-notes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
++ [汇编语言学习笔记（二）：寄存器](https://github.com/InnoFang/oh-my-study-notes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9A%E5%AF%84%E5%AD%98%E5%99%A8.md)
++ [汇编语言学习笔记（三）：寄存器（内存访问）](https://github.com/InnoFang/oh-my-study-notes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%89%EF%BC%89%EF%BC%9A%E5%AF%84%E5%AD%98%E5%99%A8%EF%BC%88%E5%86%85%E5%AD%98%E8%AE%BF%E9%97%AE%EF%BC%89.md)
++ [汇编语言学习笔记（四）：第一个程序](https://github.com/InnoFang/oh-my-study-notes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%9B%9B%EF%BC%89%EF%BC%9A%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F.md)
++ [汇编语言学习笔记（五）：[BX] 和 loop 指令](https://github.com/InnoFang/oh-my-study-notes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%94%EF%BC%89%EF%BC%9A-BX-%E5%92%8C-loop-%E6%8C%87%E4%BB%A4.md)
++ [汇编语言学习笔记（六）：包含多个段的程序](https://github.com/InnoFang/oh-my-study-notes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%85%AD%EF%BC%89%EF%BC%9A%E5%8C%85%E5%90%AB%E5%A4%9A%E4%B8%AA%E6%AE%B5%E7%9A%84%E7%A8%8B%E5%BA%8F.md)
++ [汇编语言学习笔记（七）：更灵活的定位内存地址的方法](https://github.com/InnoFang/oh-my-study-notes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%83%EF%BC%89%EF%BC%9A%E6%9B%B4%E7%81%B5%E6%B4%BB%E7%9A%84%E5%AE%9A%E4%BD%8D%E5%86%85%E5%AD%98%E5%9C%B0%E5%9D%80%E7%9A%84%E6%96%B9%E6%B3%95.md)
++ [汇编语言学习笔记（八）：数据处理的两个基本问题](https://github.com/InnoFang/oh-my-study-notes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%85%AB%EF%BC%89%EF%BC%9A%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%9A%84%E4%B8%A4%E4%B8%AA%E5%9F%BA%E6%9C%AC%E9%97%AE%E9%A2%98.md)
++ [汇编语言学习笔记（九）：转移指令的原理](https://github.com/InnoFang/oh-my-study-notes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B9%9D%EF%BC%89%EF%BC%9A%E8%BD%AC%E7%A7%BB%E6%8C%87%E4%BB%A4%E7%9A%84%E5%8E%9F%E7%90%86.md)
++ [汇编语言学习笔记（十）：CALL-和-RET-指令](https://github.com/InnoFang/oh-my-study-notes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%8D%81%EF%BC%89%EF%BC%9ACALL-%E5%92%8C-RET-%E6%8C%87%E4%BB%A4.md)
++ [汇编语言学习笔记（十一）：标志寄存器](https://github.com/InnoFang/oh-my-study-notes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%8D%81%E4%B8%80%EF%BC%89%EF%BC%9A%E6%A0%87%E5%BF%97%E5%AF%84%E5%AD%98%E5%99%A8.md)
 
 ---------------
 
