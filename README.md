@@ -98,7 +98,7 @@
 
 
 
-## <a href="https://github.com/InnoFang/Algorithms"><i id="Algorithms">Algorithms(算法)</i></a>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
+## <a href="https://github.com/InnoFang/Algorithms"><i id="Algorithms">算法与数据结构</i></a>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
 
 + Sort (排序)  [[测试代码](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/SortTest.java)]
   - [冒泡排序 (Bubble Sort)](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/sort/impl/BubbleSort.java)
