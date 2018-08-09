@@ -92,7 +92,9 @@
 
 ## <i id="ComputerNetwork">Computer Network(计算机网络)</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
 
-+ [计算机网络之绪论](./ComputerNetwork/计算机网络之绪论.md)
++ [计算机网络之绪论](https://github.com/InnoFang/oh-my-study-notes/blob/master/ComputerNetwork/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B9%8B%E7%BB%AA%E8%AE%BA.md)
++ [计算机网络体系结构](https://github.com/InnoFang/oh-my-study-notes/blob/master/ComputerNetwork/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84.md)
++ [参考模型](https://github.com/InnoFang/oh-my-study-notes/blob/master/ComputerNetwork/%E5%8F%82%E8%80%83%E6%A8%A1%E5%9E%8B.md)
 
 
 
