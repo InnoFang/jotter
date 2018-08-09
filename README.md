@@ -59,7 +59,7 @@
 + [刷题小知识积累（Java）](https://innofang.github.io/2017/12/07/%E5%88%B7%E9%A2%98%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%A7%AF%E7%B4%AF%EF%BC%88Java%EF%BC%89/)
 
 
-## <a href="https://github.com/InnoFang/DesignPatterns"><i id="DesignPatterns">Design Patterns(设计模式)</i></a>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
+## <a href="https://github.com/InnoFang/DesignPatterns"><i id="DesignPatterns">设计模式</i></a>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
 
 + [工厂方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/factory_method)
 + [抽象工厂模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/abstract_factory)
@@ -90,7 +90,7 @@
 + [机器学习实战学习笔记（六）：支持向量机](https://github.com/InnoFang/oh-my-study-notes/blob/master/MachineLearning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%85%AD%EF%BC%89%EF%BC%9A%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA.md)
 
 
-## <i id="ComputerNetwork">Computer Network(计算机网络)</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
+## <i id="ComputerNetwork">计算机网络</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
 
 + [计算机网络之绪论](https://github.com/InnoFang/oh-my-study-notes/blob/master/ComputerNetwork/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B9%8B%E7%BB%AA%E8%AE%BA.md)
 + [计算机网络体系结构](https://github.com/InnoFang/oh-my-study-notes/blob/master/ComputerNetwork/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84.md)
@@ -141,7 +141,7 @@
 + [汇编语言学习笔记（十一）：标志寄存器](https://github.com/InnoFang/oh-my-study-notes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%8D%81%E4%B8%80%EF%BC%89%EF%BC%9A%E6%A0%87%E5%BF%97%E5%AF%84%E5%AD%98%E5%99%A8.md)
 
 
-## <i id="Utility">Utility(工具类)</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
+## <i id="Utility">工具类</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
 
 + [Activity 栈管理](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/ActivityCollector.java)
 + [App相关辅助类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/AppUtil.java)
