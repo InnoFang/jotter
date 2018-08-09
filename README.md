@@ -55,6 +55,8 @@
 + [Set](https://github.com/InnoFang/oh-my-study-notes/blob/master/Java/Set.md)
 + [Socket](https://github.com/InnoFang/oh-my-study-notes/blob/master/Java/Socket.md)
 + [从零开始的回调](https://innofang.github.io/2017/03/08/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9B%9E%E8%B0%83/)
++ [记一次由Java读写速度引发的TLE的一点探索](https://innofang.github.io/2018/03/05/%E8%AE%B0%E4%B8%80%E6%AC%A1%E7%94%B1Java%E8%AF%BB%E5%86%99%E9%80%9F%E5%BA%A6%E5%BC%95%E5%8F%91%E7%9A%84TLE%E7%9A%84%E4%B8%80%E7%82%B9%E6%8E%A2%E7%B4%A2/)
++ [刷题小知识积累（Java）](https://innofang.github.io/2017/12/07/%E5%88%B7%E9%A2%98%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%A7%AF%E7%B4%AF%EF%BC%88Java%EF%BC%89/)
 
 
 ## <a href="https://github.com/InnoFang/DesignPatterns"><i id="DesignPatterns">Design Patterns(设计模式)</i></a>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
