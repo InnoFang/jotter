@@ -8,13 +8,13 @@
 
   + [Android](#Android) 
   + [Java](#Java)
+  + [设计模式](#DesignPatterns)
   + [机器学习](#MachineLearning)
   + [计算机网络](#ComputerNetwork)
-  + [算法](#Algorithms)
-  + [设计模式](#DesignPatterns)
-  + [工具类](#Utility)
+  + [算法与数据结构](#Algorithms)
   + [MySQL 学习笔记](#MySqlNotes)
   + [汇编语言学习笔记](#AssemblyLanguage)
+  + [工具类](#Utility)
 
  记录平时学习的东西。更多内容，请看[这里](https://innofang.github.io) :-) 
 
@@ -57,6 +57,27 @@
 + [从零开始的回调](https://innofang.github.io/2017/03/08/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9B%9E%E8%B0%83/)
 
 
+## <a href="https://github.com/InnoFang/DesignPatterns"><i id="DesignPatterns">Design Patterns(设计模式)</i></a>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
+
++ [工厂方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/factory_method)
++ [抽象工厂模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/abstract_factory)
++ [建造者模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/builder)
++ [原型模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/prototype)
++ [单例模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/singleton)
++ [策略模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/strategy)
++ [状态模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/state)
++ [责任链模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/chain_of_responsibility)
++ [观察者模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/observer)
++ [备忘录模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/memento)
++ [模板方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/template_method)
++ [迭代器模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/iterator)
++ [代理模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/proxy) 
++ [适配器模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/adapter)
++ [装饰模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/decorator)
++ [外观模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/facade)
++ [享元模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/flyweight)
++ [访问者模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/visitor)
+
 ## <i id="MachineLearning">机器学习</i> &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
 
 + [机器学习实战学习笔记（一）：基础](https://github.com/InnoFang/oh-my-study-notes/blob/master/MachineLearning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E5%9F%BA%E7%A1%80.md)
@@ -93,51 +114,6 @@
   - [二分搜索树 (Binary Search Tree)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/binarytree/BST.java)
 
 
-
-## <a href="https://github.com/InnoFang/DesignPatterns"><i id="DesignPatterns">Design Patterns(设计模式)</i></a>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
-
-+ [工厂方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/factory_method)
-+ [抽象工厂模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/abstract_factory)
-+ [建造者模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/builder)
-+ [原型模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/prototype)
-+ [单例模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/singleton)
-+ [策略模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/strategy)
-+ [状态模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/state)
-+ [责任链模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/chain_of_responsibility)
-+ [观察者模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/observer)
-+ [备忘录模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/memento)
-+ [模板方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/template_method)
-+ [迭代器模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/iterator)
-+ [代理模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/proxy) 
-+ [适配器模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/adapter)
-+ [装饰模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/decorator)
-+ [外观模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/facade)
-+ [享元模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/flyweight)
-+ [访问者模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/visitor)
-
-
-
-## <i id="Utility">Utility(工具类)</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
-
-+ [Activity 栈管理](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/ActivityCollector.java)
-+ [App相关辅助类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/AppUtil.java)
-+ [圆形动画工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/CircularAnimUtil.java)
-+ [关闭可关闭类工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/CloseUtil.java)
-+ [单位转换类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/DensityUtil.java)
-+ [Http 相关辅助类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/HttpUtil.java)
-+ [软键盘相关辅助类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/KeyBoardUtil.java)
-+ [Log 同一管理类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/L.java)
-+ [网络相关辅助类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/NetUtil.java)
-+ [RequestPermissions 请求运行时权限工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/RequestPermissions.java)
-+ [SD 卡相关辅助类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/SDCardUtil.java)
-+ [SharedPreferences 封装类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/SPUtil.java)
-+ [SQL 建表语句工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/SQL.java)
-+ [获取屏幕相关工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/ScreenUtil.java)
-+ [Toast 工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/ToastUtil.java)
-+ [CrashHandler 未捕获异常处理器](https://github.com/InnoFang/Android-Code-Demos/Android/blob/master/CrashHandlerDemo/app/src/main/java/io/innofang/crashhandlerdemo/CrashHandler.java)
-+ [创建 PopupWindow 工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/CustomPopupWindow.java)
-+ [单例工厂](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/SingletonFactory.java)
-
 ## <i id="MySqlNotes">MySQL 学习笔记</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
 
 + [MySQL 学习之初识](https://github.com/InnoFang/oh-my-study-notes/blob/master/MySQL/MySQL%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%88%9D%E8%AF%86.md)
@@ -160,6 +136,27 @@
 + [汇编语言学习笔记（十）：CALL-和-RET-指令](https://github.com/InnoFang/oh-my-study-notes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%8D%81%EF%BC%89%EF%BC%9ACALL-%E5%92%8C-RET-%E6%8C%87%E4%BB%A4.md)
 + [汇编语言学习笔记（十一）：标志寄存器](https://github.com/InnoFang/oh-my-study-notes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%8D%81%E4%B8%80%EF%BC%89%EF%BC%9A%E6%A0%87%E5%BF%97%E5%AF%84%E5%AD%98%E5%99%A8.md)
 
+
+## <i id="Utility">Utility(工具类)</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
+
++ [Activity 栈管理](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/ActivityCollector.java)
++ [App相关辅助类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/AppUtil.java)
++ [圆形动画工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/CircularAnimUtil.java)
++ [关闭可关闭类工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/CloseUtil.java)
++ [单位转换类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/DensityUtil.java)
++ [Http 相关辅助类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/HttpUtil.java)
++ [软键盘相关辅助类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/KeyBoardUtil.java)
++ [Log 同一管理类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/L.java)
++ [网络相关辅助类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/NetUtil.java)
++ [RequestPermissions 请求运行时权限工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/RequestPermissions.java)
++ [SD 卡相关辅助类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/SDCardUtil.java)
++ [SharedPreferences 封装类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/SPUtil.java)
++ [SQL 建表语句工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/SQL.java)
++ [获取屏幕相关工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/ScreenUtil.java)
++ [Toast 工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/ToastUtil.java)
++ [CrashHandler 未捕获异常处理器](https://github.com/InnoFang/Android-Code-Demos/Android/blob/master/CrashHandlerDemo/app/src/main/java/io/innofang/crashhandlerdemo/CrashHandler.java)
++ [创建 PopupWindow 工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/CustomPopupWindow.java)
++ [单例工厂](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/SingletonFactory.java)
 ---------------
 
 
