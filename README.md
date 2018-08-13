@@ -100,22 +100,36 @@
 
 ## <a href="https://github.com/InnoFang/Algorithms"><i id="Algorithms">算法与数据结构</i></a>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
 
-+ Sort (排序)  [[测试代码](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/SortTest.java)]
-  - [冒泡排序 (Bubble Sort)](https://github.com/InnoFang/Algorithm-Library/blob/master/src/io/innofang/sort/impl/BubbleSort.java)
-  - [选择排序 (Selection Sort)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/SelectionSort.java)
-  - [插入排序 (Insertion Sort)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/InsertionSort.java)
-  - [希尔排序 (Shell Sort)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/ShellSort.java)
-  - [快速排序 (Quick Sort)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/QuickSort.java)
-  - [归并排序 (Merge Sort)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/sort/impl/MergeSort.java)
++ **[搜索](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Search)**
 
-+ Search (搜索)  [[测试代码](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/SearchTest.java)]
-  - [二分查找 (Binay Search)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/search/BinarySearch.java)
+  - [二分搜索](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Search/Binary%20Search)
 
-+ Heap (堆)  [[测试代码](https://github.com/innofang/Algorithms/blob/master/src/io/innofang/HeapTest.java)]
-  - [最大堆 (Max Heap)](https://github.com/innofang/Algorithms/blob/master/src/io/innofang/heap/Heap.java)
+    [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Binary%20Search/main.cpp)
 
-+ 二叉树 (Binary Tree) [[测试代码](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/BSTTest.java)]
-  - [二分搜索树 (Binary Search Tree)](https://github.com/InnoFang/Algorithms/blob/master/src/io/innofang/binarytree/BST.java)
+  - [模式匹配](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Search/Pattern%20Match)
+
+    * [Brute Force](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force)
+
+      [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Pattern%20Match/Brute%20Force/main.cpp)
+      
+    * [KMP](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Search/Pattern%20Match/KMP)
+      
+      [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Search/Pattern%20Match/KMP/main.cpp)
+
++ **[排序](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Sort)**
+
+  - [冒泡排序](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Sort/Bubble%20Sort)
+
+    [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Bubble%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.js) [`Python`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.py) [`Kotlin`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Bubble%20Sort/main.kt) 
+
+  - [插入排序](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Sort/Insertion%20Sort)
+
+    [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Insertion%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Insertion%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Insertion%20Sort/main.js) [`Python`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Insertion%20Sort/main.py)
+
+  - [选择排序](https://github.com/InnoFang/oh-my-algorithms/tree/master/Data%20Structures/Sort/Selection%20Sort)
+
+    [`C++`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Selection%20Sort/main.cpp) [`Java`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Selection%20Sort/Main.java) [`JavaScript`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Selection%20Sort/main.js) [`Python`](https://github.com/InnoFang/oh-my-algorithms/blob/master/Data%20Structures/Sort/Selection%20Sort/main.py)
+
 
 
 ## <i id="MySqlNotes">MySQL 学习笔记</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
