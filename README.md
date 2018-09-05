@@ -33,7 +33,6 @@
 - [用URL访问网络资源](https://github.com/InnoFang/IFNote/blob/master/Android/%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF/%E7%94%A8URL%E8%AE%BF%E9%97%AE%E7%BD%91%E7%BB%9C%E8%B5%84%E6%BA%90.md)
 - [SQLite数据库](https://innofang.github.io/2017/02/19/SQLite%E7%9A%84%E7%AE%80%E5%8D%95%E5%AE%9E%E7%94%A8/)
 - [工具栏](https://github.com/InnoFang/IFNote/blob/master/Android/%E6%A0%B7%E5%BC%8F%E5%92%8C%E4%B8%BB%E9%A2%98/%E5%B7%A5%E5%85%B7%E6%A0%8F.md)
-- [NDK开发从0到1](https://innofang.github.io/2017/04/16/Android-NDK%E5%BC%80%E5%8F%91%E4%BB%8E0%E5%88%B01/)
 - [Activity间的数据传递](https://github.com/InnoFang/IFNote/blob/master/Android/Activity/Activity%E9%97%B4%E7%9A%84%E6%95%B0%E6%8D%AE%E4%BC%A0%E9%80%92.md)
 - [fragment argument](https://github.com/InnoFang/IFNote/blob/master/Android/Fragment/fragment%20argument.md)
 - [fragment间的数据传递](https://github.com/InnoFang/IFNote/blob/master/Android/Fragment/fragment%E9%97%B4%E7%9A%84%E6%95%B0%E6%8D%AE%E4%BC%A0%E9%80%92.md)
@@ -100,6 +99,27 @@
 
 ## <a href="https://github.com/InnoFang/Algorithms"><i id="Algorithms">算法与数据结构</i></a>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
 
++ **[图](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph)**
+
+  - [BFS](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph/BFS)
+
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/BFS/main.cpp )
+
+  - [DFS](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph/DFS)
+
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/DFS/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/DFS/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/DFS/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/DFS/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/DFS/main.kt)
+
+  - [最短路径](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph/Shortest%20Path)
+
+    * [迪杰斯特拉算法](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph/Shortest%20Path/Dijkstra)
+
+      [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/Shortest%20Path/Dijkstra/main.cpp)
+
+    * [佛洛依德算法](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph/Shortest%20Path/Floyd)
+
+      [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/Shortest%20Path/Floyd/main.cpp)
+
+
 + **[搜索](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Search)**
 
   - [二分搜索](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Search/Binary%20Search)
@@ -156,7 +176,7 @@
   
   - [遍历](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Tree/Traversal)
 
-    * [前序遍历]](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Tree/Traversal/Pre%20Order)
+    * [前序遍历](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Tree/Traversal/Pre%20Order)
 
       [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Traversal/Pre%20Order/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Traversal/Pre%20Order/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Traversal/Pre%20Order/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Traversal/Pre%20Order/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Traversal/Pre%20Order/main.kt)
     
