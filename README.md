@@ -103,7 +103,7 @@
 
   - [BFS](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph/BFS)
 
-    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/BFS/main.cpp )
+    [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/BFS/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/BFS/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/BFS/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/BFS/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/BFS/main.kt)
 
   - [DFS](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph/DFS)
 
@@ -113,11 +113,11 @@
 
     * [迪杰斯特拉算法](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph/Shortest%20Path/Dijkstra)
 
-      [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/Shortest%20Path/Dijkstra/main.cpp)
+      [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/Shortest%20Path/Dijkstra/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/Shortest%20Path/Dijkstra/Main.java)
 
     * [佛洛依德算法](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph/Shortest%20Path/Floyd)
 
-      [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/Shortest%20Path/Floyd/main.cpp)
+      [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/Shortest%20Path/Floyd/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Graph/Shortest%20Path/Floyd/Main.java)
 
 
 + **[搜索](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Search)**
