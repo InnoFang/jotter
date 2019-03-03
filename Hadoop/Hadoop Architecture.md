@@ -43,6 +43,18 @@ NameNode 会根据数据块的副本作出决定。它会定期接收集群中�
 
 ![](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/images/hdfsdatanodes.png)
 
+## HDFS 优缺点
+
+优点：
+   - 数据冗余、硬件容错
+   - 适合存储大文件
+   - 处理流式的数据访问
+   - 可构建在廉价机器上
+
+缺点：
+   - 低延迟的数据访问
+   - 不适合小文件存储
+
 ## Reference
 
 [HDFS Architecture](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)
