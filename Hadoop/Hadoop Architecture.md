@@ -41,6 +41,8 @@ HDFS 旨在可靠地在大型集群中跨机器存储大文件，将文件存储
 
 NameNode 会根据数据块的副本作出决定。它会定期接收集群中每个 DataNode 的心跳（Hearbeat）和数据块报告（Blockreport）。收到心跳意味着这个 DataNode 是正常工作的。数据块报告则包含 DataNode 上所有数据块的列表。
 
+![](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/images/hdfsdatanodes.png)
+
 ## Reference
 
 [HDFS Architecture](http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)
