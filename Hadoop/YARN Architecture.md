@@ -50,7 +50,7 @@ Hadoop 2.x 中的 MapReduce 与以前的稳定版本（Hadoop 1.x）保持 API �
  + Container
     - 封装了 CPU、Memory 等资源的一个容器
     - 是一个任务运行环境的抽象
-
+xs 
 ## Refernece
 
 [Apache Hadoop YARN](http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html)
