@@ -1,10 +1,6 @@
- <div align="center">
-  <img id="StudyNotes" src="https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/StudyNotes.png" />
-</div>
-
-<br/>
-
 📃 **目 录**
+
+<img id="StudyNotes" src="https://raw.githubusercontent.com/InnoFang/jotter/image-hosting/jotter.png" align="right" width="45%"/>
 
   + [Android](#Android) 
   + [Java](#Java)
