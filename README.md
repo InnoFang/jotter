@@ -6,11 +6,11 @@
   + [Java](#Java)
   + [设计模式](#DesignPatterns)
   + [机器学习](#MachineLearning)
+  + [Hadoop](#Hadoop)
   + [计算机网络](#ComputerNetwork)
   + [算法与数据结构](#Algorithms)
   + [MySQL 学习笔记](#MySqlNotes)
   + [汇编语言学习笔记](#AssemblyLanguage)
-  + [工具类](#Utility)
 
  记录平时学习的东西。更多内容，请看[这里](https://innofang.github.io) :-) 
 
@@ -84,6 +84,10 @@
 + [机器学习实战学习笔记（五）：逻辑回归](https://github.com/InnoFang/oh-my-study-notes/blob/master/MachineLearning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%94%EF%BC%89%EF%BC%9A%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92.md)
 + [机器学习实战学习笔记（六）：支持向量机](https://github.com/InnoFang/oh-my-study-notes/blob/master/MachineLearning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%85%AD%EF%BC%89%EF%BC%9A%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA.md)
 
+## <i id="Hadoop">Hadoop</i> &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
+
+ + [Hadoop Architecture](./Hadoop/Hadoop%20Architecture.md)
+ + [YARN Architecture](./Hadoop/Yarn%20Architecture.md)
 
 ## <i id="ComputerNetwork">计算机网络</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
 
@@ -211,27 +215,6 @@
 + [汇编语言学习笔记（十）：CALL-和-RET-指令](https://github.com/InnoFang/oh-my-study-notes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%8D%81%EF%BC%89%EF%BC%9ACALL-%E5%92%8C-RET-%E6%8C%87%E4%BB%A4.md)
 + [汇编语言学习笔记（十一）：标志寄存器](https://github.com/InnoFang/oh-my-study-notes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%8D%81%E4%B8%80%EF%BC%89%EF%BC%9A%E6%A0%87%E5%BF%97%E5%AF%84%E5%AD%98%E5%99%A8.md)
 
-
-## <i id="Utility">工具类</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
-
-+ [Activity 栈管理](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/ActivityCollector.java)
-+ [App相关辅助类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/AppUtil.java)
-+ [圆形动画工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/CircularAnimUtil.java)
-+ [关闭可关闭类工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/CloseUtil.java)
-+ [单位转换类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/DensityUtil.java)
-+ [Http 相关辅助类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/HttpUtil.java)
-+ [软键盘相关辅助类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/KeyBoardUtil.java)
-+ [Log 同一管理类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/L.java)
-+ [网络相关辅助类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/NetUtil.java)
-+ [RequestPermissions 请求运行时权限工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/RequestPermissions.java)
-+ [SD 卡相关辅助类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/SDCardUtil.java)
-+ [SharedPreferences 封装类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/SPUtil.java)
-+ [SQL 建表语句工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/SQL.java)
-+ [获取屏幕相关工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/ScreenUtil.java)
-+ [Toast 工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/ToastUtil.java)
-+ [CrashHandler 未捕获异常处理器](https://github.com/InnoFang/Android-Code-Demos/Android/blob/master/CrashHandlerDemo/app/src/main/java/io/innofang/crashhandlerdemo/CrashHandler.java)
-+ [创建 PopupWindow 工具类](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/CustomPopupWindow.java)
-+ [单例工厂](https://github.com/InnoFang/oh-my-study-notes/blob/master/Utility/Android/SingletonFactory.java)
 ---------------
 
 
