@@ -1,0 +1,7 @@
+## Key Essence of Maching Learning
+
+> key essence : help decide whether to use ML
+
+1. exists some 'underlying pattern' to be learned -- so 'performance measure' can be improved
+2. but no programmable (easy) definition -- so 'ML' is needed
+3. somehow there is data about the pattern -- so ML has some 'inputs' to learn from
