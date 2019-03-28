@@ -1,3 +1,9 @@
 [submodule "Algorithm"]
 	path = Algorithm
 	url = https://github.com/innofang/algo-set
+[submodule "oh-my-design-patterns"]
+	path = oh-my-design-patterns
+	url = https://github.com/innofang/oh-my-design-patterns
+[submodule "DesignPattern"]
+	path = DesignPattern
+	url = https://github.com/innofang/oh-my-design-patterns
