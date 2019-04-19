@@ -34,7 +34,6 @@ data.putExtra (EXTRA_KEY_INT, valueInt);//传递整型
 Intent data = new Intent ();
 boolean valueBoolean = true;
 data.putExtra (EXTRA_KEY_BOOLEAN, valueBoolean);//传递布尔值
-data.putExtra (EXTRA_KEY_BOOLEAN, valueBoolean);//传递布尔值
 int valueInt = 123;
 data.putExtra (EXTRA_KEY_INT, valueInt);//传递整型
 startActivity(data);
