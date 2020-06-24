@@ -1,6 +1,6 @@
 📃 **目 录**
 
-<img id="StudyNotes" src="https://raw.githubusercontent.com/InnoFang/jotter/image-hosting/jotter.png" align="right" width="45%"/>
+<img id="StudyNotes" src="https://cdn.jsdelivr.net/gh/innofang/jotter/source/jotter.png" align="right" width="45%"/>
 
   + [Android](#Android) 
   + [Java](#Java)
@@ -16,7 +16,7 @@
 
 ----------------
 
-## <i id="Android">Android</i> &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
+## <i id="Android">Android</i> &nbsp;&nbsp;&nbsp; [![](https://cdn.jsdelivr.net/gh/innofang/jotter/source/go_top.png)](#StudyNotes)
 
 - [Activity间的数据传递](https://github.com/InnoFang/IFNote/blob/master/Android/Activity/Activity%E9%97%B4%E7%9A%84%E6%95%B0%E6%8D%AE%E4%BC%A0%E9%80%92.md)
 - [fragment argument](https://github.com/InnoFang/IFNote/blob/master/Android/Fragment/fragment%20argument.md)
@@ -45,7 +45,7 @@
  
 
 
-## <i id="Java">Java</i> &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
+## <i id="Java">Java</i> &nbsp;&nbsp;&nbsp; [![](https://cdn.jsdelivr.net/gh/innofang/jotter/source/go_top.png)](#StudyNotes)
 
 + [Set](https://github.com/InnoFang/oh-my-study-notes/blob/master/Java/Set.md)
 + [Socket](https://github.com/InnoFang/oh-my-study-notes/blob/master/Java/Socket.md)
@@ -54,7 +54,7 @@
 + [刷题小知识积累（Java）](https://innofang.github.io/2017/12/07/%E5%88%B7%E9%A2%98%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%A7%AF%E7%B4%AF%EF%BC%88Java%EF%BC%89/)
 
 
-## <a href="https://github.com/InnoFang/DesignPatterns"><i id="DesignPatterns">设计模式</i></a>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
+## <a href="https://github.com/InnoFang/DesignPatterns"><i id="DesignPatterns">设计模式</i></a>  &nbsp;&nbsp;&nbsp; [![](https://cdn.jsdelivr.net/gh/innofang/jotter/source/go_top.png)](#StudyNotes)
 
 + [工厂方法模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/factory_method)
 + [抽象工厂模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/abstract_factory)
@@ -75,7 +75,7 @@
 + [享元模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/flyweight)
 + [访问者模式](https://github.com/InnoFang/DesignPatterns/tree/master/src/io/innofang/visitor)
 
-## <i id="MachineLearning">机器学习</i> &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
+## <i id="MachineLearning">机器学习</i> &nbsp;&nbsp;&nbsp; [![](https://cdn.jsdelivr.net/gh/innofang/jotter/source/go_top.png)](#StudyNotes)
 
 + [机器学习实战学习笔记（一）：基础](https://github.com/InnoFang/oh-my-study-notes/blob/master/MachineLearning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E5%9F%BA%E7%A1%80.md)
 + [机器学习实战学习笔记（二）：KNN](https://github.com/InnoFang/oh-my-study-notes/blob/master/MachineLearning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9AKNN.md)
@@ -84,12 +84,12 @@
 + [机器学习实战学习笔记（五）：逻辑回归](https://github.com/InnoFang/oh-my-study-notes/blob/master/MachineLearning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%94%EF%BC%89%EF%BC%9A%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92.md)
 + [机器学习实战学习笔记（六）：支持向量机](https://github.com/InnoFang/oh-my-study-notes/blob/master/MachineLearning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%85%AD%EF%BC%89%EF%BC%9A%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA.md)
 
-## <i id="Hadoop">Hadoop</i> &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
+## <i id="Hadoop">Hadoop</i> &nbsp;&nbsp;&nbsp; [![](https://cdn.jsdelivr.net/gh/innofang/jotter/source/go_top.png)](#StudyNotes)
 
  + [Hadoop Architecture](./Hadoop/Hadoop%20Architecture.md)
  + [YARN Architecture](./Hadoop/Yarn%20Architecture.md)
 
-## <i id="ComputerNetwork">计算机网络</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
+## <i id="ComputerNetwork">计算机网络</i>  &nbsp;&nbsp;&nbsp; [![](https://cdn.jsdelivr.net/gh/innofang/jotter/source/go_top.png)](#StudyNotes)
 
 + [计算机网络之绪论](https://github.com/InnoFang/oh-my-study-notes/blob/master/ComputerNetwork/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%B9%8B%E7%BB%AA%E8%AE%BA.md)
 + [计算机网络体系结构](https://github.com/InnoFang/oh-my-study-notes/blob/master/ComputerNetwork/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84.md)
@@ -97,7 +97,7 @@
 
 
 
-## <a href="https://github.com/InnoFang/Algorithms"><i id="Algorithms">算法与数据结构</i></a>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
+## <a href="https://github.com/InnoFang/Algorithms"><i id="Algorithms">算法与数据结构</i></a>  &nbsp;&nbsp;&nbsp; [![](https://cdn.jsdelivr.net/gh/innofang/jotter/source/go_top.png)](#StudyNotes)
 
 + **[图](https://github.com/InnoFang/algo-set/tree/master/Data%20Structures/Graph)**
 
@@ -193,7 +193,7 @@
       [`C++`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Traversal/Level%20Order/main.cpp) [`Java`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Traversal/Level%20Order/Main.java) [`JavaScript`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Traversal/Level%20Order/main.js) [`Python`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Traversal/Level%20Order/main.py) [`Kotlin`](https://github.com/InnoFang/algo-set/blob/master/Data%20Structures/Tree/Traversal/Level%20Order/main.kt)
 
 
-## <i id="MySqlNotes">MySQL 学习笔记</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#StudyNotes)
+## <i id="MySqlNotes">MySQL 学习笔记</i>  &nbsp;&nbsp;&nbsp; [![](https://cdn.jsdelivr.net/gh/innofang/jotter/source/go_top.png)](#StudyNotes)
 
 + [MySQL 学习之初识](https://github.com/InnoFang/oh-my-study-notes/blob/master/MySQL/MySQL%E5%AD%A6%E4%B9%A0%E4%B9%8B%E5%88%9D%E8%AF%86.md)
 + [MySQL 学习之数据类型](https://github.com/InnoFang/oh-my-study-notes/blob/master/MySQL/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
@@ -201,7 +201,7 @@
 + [MySQL 学习之数据表（一）](https://github.com/InnoFang/oh-my-study-notes/blob/master/MySQL/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%A1%A8(%E4%B8%80)%20.md)
 + [MySQL 学习之数据表（二）](https://github.com/InnoFang/oh-my-study-notes/blob/master/MySQL/MySQL-%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%A1%A8(%E4%BA%8C).md)
 
-## <i id="AssemblyLanguage">汇编语言学习笔记</i>  &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/InnoFang/oh-my-study-notes/image-hosting/go_top.png)](#oh-my-study-notes)
+## <i id="AssemblyLanguage">汇编语言学习笔记</i>  &nbsp;&nbsp;&nbsp; [![](https://cdn.jsdelivr.net/gh/innofang/jotter/source/go_top.png)](#oh-my-study-notes)
 
 + [汇编语言学习笔记（一）：基础知识](https://github.com/InnoFang/oh-my-study-notes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md)
 + [汇编语言学习笔记（二）：寄存器](https://github.com/InnoFang/oh-my-study-notes/blob/master/AssemblyLanguage/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9A%E5%AF%84%E5%AD%98%E5%99%A8.md)
